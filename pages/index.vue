@@ -1,5 +1,5 @@
 <template>
-  <div class="prose">
+  <div class="container prose">
     <h1>Очень нужное миру приложение</h1>
     <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
       <div class="md:flex">
