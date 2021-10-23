@@ -1,6 +1,7 @@
 <template>
   <div>
-    <CardList :products="products"/>
+    <CardList :products-group="1" title="Группа 1"/>
+    <CardList :products-group="2" title="Группа 2"/>
   </div>
 </template>
 
@@ -10,18 +11,5 @@ import CardList from "~/components/CardList/CardList";
 export default {
   name: 'HomePage',
   components: {CardList},
-  async asyncData({$axios}) {
-    let products = []
-    try {
-      const response = await $axios.$get('/api/products.json')
-      products = response.body.products
-    } catch (e) {
-      // eslint-disable-next-line no-console
-      console.error(e)
-    }
-    return {
-      products
-    }
-  }
 }
 </script>

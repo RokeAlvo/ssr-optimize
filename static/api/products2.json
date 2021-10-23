@@ -1,0 +1,3700 @@
+{
+  "success": true,
+  "messages": [],
+  "body": {
+    "products": [
+      {
+        "productId": "50156376",
+        "name": "Наушники True Wireless realme Buds Air 2 White (RMA2003)",
+        "nameTranslit": "naushniki-true-wireless-realme-buds-air-2-white-rma2003",
+        "brandName": "realme",
+        "materialSource": "ERP",
+        "productType": "ACSS",
+        "images": [
+          "Pdb/50156376.jpg",
+          "Pdb/50156376b.jpg",
+          "Pdb/50156376b1.jpg",
+          "Pdb/50156376b10.jpg",
+          "Pdb/50156376b11.jpg",
+          "Pdb/50156376b2.jpg",
+          "Pdb/50156376s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "1706",
+          "name": "Наушники Bluetooth"
+        },
+        "materialCisNumber": "50156376",
+        "description": null,
+        "modelName": "Buds Air 2 White",
+        "properties": {
+          "key": [
+            {
+              "name": "Подключение",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 6550,
+                  "name": "Тип подключения наушников",
+                  "value": "беспроводной",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Частотный диапазон",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 230,
+                  "name": "Частотный диапазон",
+                  "value": "20 Гц - 20 кГц",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Сопротивление",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 232,
+                  "name": "Сопротивление",
+                  "value": "16 Ом",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Чувствительность",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 233,
+                  "name": "Чувствительность",
+                  "value": "97 дБ",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 7871,
+                  "name": "Система активного подавления шума",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                },
+                {
+                  "id": 538,
+                  "name": "Использование в качестве гарнитуры",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 266,
+                  "name": "Работа от аккумулятора",
+                  "value": "до 25 часов",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Материал",
+              "priority": 12,
+              "properties": [
+                {
+                  "id": 464,
+                  "name": "Материал амбушюров",
+                  "value": "силикон",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Поддерживаемые кодеки",
+              "priority": 16,
+              "properties": [
+                {
+                  "id": 30853034,
+                  "name": "Поддержка AAC",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 16,
+                  "measure": null
+                },
+                {
+                  "id": 30853129,
+                  "name": "Поддержка SBC",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Управление",
+              "priority": 19,
+              "properties": [
+                {
+                  "id": 468,
+                  "name": "Регулировка громкости",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 19,
+                  "measure": null
+                },
+                {
+                  "id": 268,
+                  "name": "Сенсорная панель управления",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 21,
+                  "measure": null
+                },
+                {
+                  "id": 620013,
+                  "name": "Кнопка управления шумоподавлением",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 25,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 20,
+              "properties": [
+                {
+                  "id": 731,
+                  "name": "Брызгозащитный корпус",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 20,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Зарядка",
+              "priority": 23,
+              "properties": [
+                {
+                  "id": 30853001,
+                  "name": "Быстрая зарядка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 23,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/50156376b.jpg",
+        "images3d": [],
+        "imagesBig": [
+          "Big/50156376bb.jpg",
+          "Big/50156376bb1.jpg",
+          "Big/50156376bb10.jpg",
+          "Big/50156376bb11.jpg",
+          "Big/50156376bb2.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "4488",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Наушники",
+            "groupId": "17306",
+            "seoId": "54",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Наушники",
+            "groupId": "17307",
+            "seoId": "3967",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Наушники Bluetooth",
+            "groupId": "17312",
+            "seoId": "1706",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/50156376.pdf"
+        ],
+        "instructions": [
+          "ins/50156376.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 4.75,
+          "count": 8,
+          "percent": 91
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "10025791",
+        "name": "Телевизор Haier 43 Smart TV MX",
+        "nameTranslit": "televizor-haier-43-smart-tv-mx",
+        "brandName": "Haier",
+        "materialSource": "ERP",
+        "productType": "AV",
+        "images": [
+          "Pdb/10025791.jpg",
+          "Pdb/10025791b.jpg",
+          "Pdb/10025791b1.jpg",
+          "Pdb/10025791b2.jpg",
+          "Pdb/10025791b3.jpg",
+          "Pdb/10025791b4.jpg",
+          "Pdb/10025791b5.jpg",
+          "Pdb/10025791s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "1682",
+          "name": "4K (UHD) телевизоры"
+        },
+        "materialCisNumber": "10025791",
+        "description": null,
+        "modelName": "43 Smart TV MX",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30852874,
+                  "name": "Экран",
+                  "value": "43\"/3840x2160 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                },
+                {
+                  "id": 30852683,
+                  "name": "Тип технологии HDR",
+                  "value": "HDR10",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 2473,
+                  "name": "Технология HDR",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                },
+                {
+                  "id": 208,
+                  "name": "Поддержка Smart TV",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                },
+                {
+                  "id": 615868,
+                  "name": "Поддержка Wi-Fi",
+                  "value": "Да",
+                  "nameDescription": "Возможность устройства выходить в интернет, используя беспроводной интерфейс.",
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальные акустические системы",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 143,
+                  "name": "Мощность фронтальных АС",
+                  "value": "2 x 10 Вт",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Bluetooth",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 613102,
+                  "name": "Встроенный модуль Bluetooth",
+                  "value": "Да",
+                  "nameDescription": "Модуль для беспроводного подключения к другим устройствам, в том числе и смартфонам.",
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 30851720,
+                  "name": "Операционная система",
+                  "value": "Android 9.0",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Интерфейсы",
+              "priority": 17,
+              "properties": [
+                {
+                  "id": 134,
+                  "name": "Порт USB 2.0 тип A",
+                  "value": "2",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 2.0.",
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": "шт"
+                },
+                {
+                  "id": 179,
+                  "name": "Вход HDMI",
+                  "value": "4",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 19,
+                  "measure": "шт"
+                },
+                {
+                  "id": 180,
+                  "name": "Версия HDMI",
+                  "value": "2.0",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 20,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Воспроизведение с цифровых носителей",
+              "priority": 18,
+              "properties": [
+                {
+                  "id": 5339,
+                  "name": "Воспроизведение с USB",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Дистанционное управление",
+              "priority": 21,
+              "properties": [
+                {
+                  "id": 199,
+                  "name": "Тип дистанционного управления",
+                  "value": "Bluetooth",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 21,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/10025791b.jpg",
+        "images3d": [
+          "3dPics/10025791/001.jpg",
+          "3dPics/10025791/002.jpg",
+          "3dPics/10025791/003.jpg",
+          "3dPics/10025791/004.jpg",
+          "3dPics/10025791/005.jpg",
+          "3dPics/10025791/006.jpg",
+          "3dPics/10025791/007.jpg",
+          "3dPics/10025791/008.jpg",
+          "3dPics/10025791/009.jpg",
+          "3dPics/10025791/010.jpg",
+          "3dPics/10025791/011.jpg",
+          "3dPics/10025791/012.jpg",
+          "3dPics/10025791/013.jpg",
+          "3dPics/10025791/014.jpg",
+          "3dPics/10025791/015.jpg",
+          "3dPics/10025791/016.jpg",
+          "3dPics/10025791/017.jpg",
+          "3dPics/10025791/018.jpg",
+          "3dPics/10025791/019.jpg",
+          "3dPics/10025791/020.jpg",
+          "3dPics/10025791/021.jpg",
+          "3dPics/10025791/022.jpg",
+          "3dPics/10025791/023.jpg",
+          "3dPics/10025791/024.jpg",
+          "3dPics/10025791/025.jpg",
+          "3dPics/10025791/026.jpg",
+          "3dPics/10025791/027.jpg",
+          "3dPics/10025791/028.jpg",
+          "3dPics/10025791/029.jpg",
+          "3dPics/10025791/030.jpg",
+          "3dPics/10025791/031.jpg",
+          "3dPics/10025791/032.jpg",
+          "3dPics/10025791/033.jpg",
+          "3dPics/10025791/034.jpg",
+          "3dPics/10025791/035.jpg",
+          "3dPics/10025791/036.jpg",
+          "3dPics/10025791/s_001.jpg",
+          "3dPics/10025791/s_002.jpg",
+          "3dPics/10025791/s_003.jpg",
+          "3dPics/10025791/s_004.jpg",
+          "3dPics/10025791/s_005.jpg",
+          "3dPics/10025791/s_006.jpg",
+          "3dPics/10025791/s_007.jpg",
+          "3dPics/10025791/s_008.jpg",
+          "3dPics/10025791/s_009.jpg",
+          "3dPics/10025791/s_010.jpg",
+          "3dPics/10025791/s_011.jpg",
+          "3dPics/10025791/s_012.jpg",
+          "3dPics/10025791/s_013.jpg",
+          "3dPics/10025791/s_014.jpg",
+          "3dPics/10025791/s_015.jpg",
+          "3dPics/10025791/s_016.jpg",
+          "3dPics/10025791/s_017.jpg",
+          "3dPics/10025791/s_018.jpg",
+          "3dPics/10025791/s_019.jpg",
+          "3dPics/10025791/s_020.jpg",
+          "3dPics/10025791/s_021.jpg",
+          "3dPics/10025791/s_022.jpg",
+          "3dPics/10025791/s_023.jpg",
+          "3dPics/10025791/s_024.jpg",
+          "3dPics/10025791/s_025.jpg",
+          "3dPics/10025791/s_026.jpg",
+          "3dPics/10025791/s_027.jpg",
+          "3dPics/10025791/s_028.jpg",
+          "3dPics/10025791/s_029.jpg",
+          "3dPics/10025791/s_030.jpg",
+          "3dPics/10025791/s_031.jpg",
+          "3dPics/10025791/s_032.jpg",
+          "3dPics/10025791/s_033.jpg",
+          "3dPics/10025791/s_034.jpg",
+          "3dPics/10025791/s_035.jpg",
+          "3dPics/10025791/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/10025791bb.jpg",
+          "Big/10025791bb1.jpg",
+          "Big/10025791bb2.jpg",
+          "Big/10025791bb3.jpg",
+          "Big/10025791bb4.jpg",
+          "Big/10025791bb5.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "1687",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Телевизоры и цифровое ТВ",
+            "groupId": "16126",
+            "seoId": "1",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Телевизоры",
+            "groupId": "16129",
+            "seoId": "65",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "4K (UHD) телевизоры",
+            "groupId": "16132",
+            "seoId": "1682",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/10025791.pdf"
+        ],
+        "instructions": [
+          "ins/10025791.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 4.51063829787234,
+          "count": 47,
+          "percent": 91
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "50149630",
+        "name": "Наушники True Wireless realme Buds Air Pro Black (RMA210)",
+        "nameTranslit": "naushniki-true-wireless-realme-buds-air-pro-black-rma210",
+        "brandName": "realme",
+        "materialSource": "ERP",
+        "productType": "ACSS",
+        "images": [
+          "Pdb/50149630.jpg",
+          "Pdb/50149630b.jpg",
+          "Pdb/50149630b1.jpg",
+          "Pdb/50149630b2.jpg",
+          "Pdb/50149630b3.jpg",
+          "Pdb/50149630s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "1706",
+          "name": "Наушники Bluetooth"
+        },
+        "materialCisNumber": "50149630",
+        "description": null,
+        "modelName": "Buds Air Pro Black (RMA210)",
+        "properties": {
+          "key": [
+            {
+              "name": "Подключение",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 6550,
+                  "name": "Тип подключения наушников",
+                  "value": "беспроводной",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Частотный диапазон",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 230,
+                  "name": "Частотный диапазон",
+                  "value": "20 Гц - 20 кГц",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Сопротивление",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 232,
+                  "name": "Сопротивление",
+                  "value": "16 Ом",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Чувствительность",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 233,
+                  "name": "Чувствительность",
+                  "value": "107 дБ",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 7871,
+                  "name": "Система активного подавления шума",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                },
+                {
+                  "id": 538,
+                  "name": "Использование в качестве гарнитуры",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 266,
+                  "name": "Работа от аккумулятора",
+                  "value": "до 25 часов",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Материал",
+              "priority": 12,
+              "properties": [
+                {
+                  "id": 464,
+                  "name": "Материал амбушюров",
+                  "value": "силикон",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Поддерживаемые кодеки",
+              "priority": 16,
+              "properties": [
+                {
+                  "id": 30853034,
+                  "name": "Поддержка AAC",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 16,
+                  "measure": null
+                },
+                {
+                  "id": 30853129,
+                  "name": "Поддержка SBC",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Управление",
+              "priority": 19,
+              "properties": [
+                {
+                  "id": 468,
+                  "name": "Регулировка громкости",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 19,
+                  "measure": null
+                },
+                {
+                  "id": 268,
+                  "name": "Сенсорная панель управления",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 21,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Корпус",
+              "priority": 20,
+              "properties": [
+                {
+                  "id": 731,
+                  "name": "Брызгозащитный корпус",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 20,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Зарядка",
+              "priority": 23,
+              "properties": [
+                {
+                  "id": 30853001,
+                  "name": "Быстрая зарядка",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 23,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/50149630b.jpg",
+        "images3d": [],
+        "imagesBig": [
+          "Big/50149630bb.jpg",
+          "Big/50149630bb1.jpg",
+          "Big/50149630bb2.jpg",
+          "Big/50149630bb3.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "4488",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Наушники",
+            "groupId": "17306",
+            "seoId": "54",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Наушники",
+            "groupId": "17307",
+            "seoId": "3967",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Наушники Bluetooth",
+            "groupId": "17312",
+            "seoId": "1706",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/50149630.pdf"
+        ],
+        "instructions": [],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 5,
+          "count": 2,
+          "percent": 101
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "50162655",
+        "name": "Флеш-диск Mirex Swivel 128GB Black (13600-FMURS128)",
+        "nameTranslit": "flesh-disk-mirex-swivel-128gb-black-13600-fmurs128",
+        "brandName": "Mirex",
+        "materialSource": "ERP",
+        "productType": "ACSS",
+        "images": [
+          "Pdb/50162655.jpg",
+          "Pdb/50162655b.jpg",
+          "Pdb/50162655b1.jpg",
+          "Pdb/50162655b2.jpg",
+          "Pdb/50162655b3.jpg",
+          "Pdb/50162655b4.jpg",
+          "Pdb/50162655b5.jpg",
+          "Pdb/50162655s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "781",
+          "name": "Флешки"
+        },
+        "materialCisNumber": "50162655",
+        "description": null,
+        "modelName": "Swivel 128GB Black (13600-FMURS128)",
+        "properties": {
+          "key": [
+            {
+              "name": "Встроенная память",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 613463,
+                  "name": "Встроенная память (ROM)",
+                  "value": "128",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": "ГБ"
+                }
+              ]
+            },
+            {
+              "name": "Скорость чтения",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 6316,
+                  "name": "Максимальная скорость чтения до",
+                  "value": "21",
+                  "nameDescription": "Максимальное количество мегабайт информации, считываемое с устройства за секунду. Влияет на запуск программ и открытие файлов на диске.",
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": "МБ/сек"
+                }
+              ]
+            },
+            {
+              "name": "Свойства записи",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 6317,
+                  "name": "Максимальная скорость записи до",
+                  "value": "7",
+                  "nameDescription": "Максимальное количество мегабайт информации, записываемое на устройство за секунду. Влияет на скорость копирования файлов на диск.",
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "МБ/сек"
+                }
+              ]
+            },
+            {
+              "name": "Габаритные размеры",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 90,
+                  "name": "Габаритные размеры (В*Ш*Г)",
+                  "value": "0,1*0,6*0,2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/50162655b.jpg",
+        "images3d": [],
+        "imagesBig": [
+          "Big/50162655bb.jpg",
+          "Big/50162655bb1.jpg",
+          "Big/50162655bb2.jpg",
+          "Big/50162655bb3.jpg",
+          "Big/50162655bb4.jpg",
+          "Big/50162655bb5.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "494",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Компьютерные аксессуары",
+            "groupId": "16637",
+            "seoId": "24",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Флеш-накопители",
+            "groupId": "16666",
+            "seoId": "185",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Флешки",
+            "groupId": "16667",
+            "seoId": "781",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/50162655.pdf"
+        ],
+        "instructions": [],
+        "videos": [],
+        "status": {
+          "showCase": true,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 5,
+          "count": 1,
+          "percent": 101
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "10024462",
+        "name": "Телевизор Haier 32 Smart TV BX",
+        "nameTranslit": "televizor-haier-32-smart-tv-bx",
+        "brandName": "Haier",
+        "materialSource": "ERP",
+        "productType": "AV",
+        "images": [
+          "Pdb/10024462.jpg",
+          "Pdb/10024462b.jpg",
+          "Pdb/10024462b1.jpg",
+          "Pdb/10024462b2.jpg",
+          "Pdb/10024462b3.jpg",
+          "Pdb/10024462b4.jpg",
+          "Pdb/10024462b5.jpg",
+          "Pdb/10024462b6.jpg",
+          "Pdb/10024462b7.jpg",
+          "Pdb/10024462b8.jpg",
+          "Pdb/10024462s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "990",
+          "name": "ЖК LED-телевизоры"
+        },
+        "materialCisNumber": "10024462",
+        "description": null,
+        "modelName": "32 Smart TV BX",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30852874,
+                  "name": "Экран",
+                  "value": "32\"/1366x768 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальные акустические системы",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 143,
+                  "name": "Мощность фронтальных АС",
+                  "value": "2 x 8 Вт",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 208,
+                  "name": "Поддержка Smart TV",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                },
+                {
+                  "id": 615868,
+                  "name": "Поддержка Wi-Fi",
+                  "value": "Да",
+                  "nameDescription": "Возможность устройства выходить в интернет, используя беспроводной интерфейс.",
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Bluetooth",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 613102,
+                  "name": "Встроенный модуль Bluetooth",
+                  "value": "Да",
+                  "nameDescription": "Модуль для беспроводного подключения к другим устройствам, в том числе и смартфонам.",
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 30851720,
+                  "name": "Операционная система",
+                  "value": "Android 9.0",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Интерфейсы",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 134,
+                  "name": "Порт USB 2.0 тип A",
+                  "value": "2",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 2.0.",
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": "шт"
+                },
+                {
+                  "id": 180,
+                  "name": "Версия HDMI",
+                  "value": "1.4a",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Воспроизведение с цифровых носителей",
+              "priority": 12,
+              "properties": [
+                {
+                  "id": 5339,
+                  "name": "Воспроизведение с USB",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Дистанционное управление",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 199,
+                  "name": "Тип дистанционного управления",
+                  "value": "ИК",
+                  "nameDescription": null,
+                  "valueDescription": "Для управления используется пульт ДУ с инфракрасным светодиодом. Также возможно дистанционное управление при помощи смартфона или планшета, оснащённого инфракрасным портом.",
+                  "priority": 14,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/10024462b.jpg",
+        "images3d": [
+          "3dPics/10024462/001.jpg",
+          "3dPics/10024462/002.jpg",
+          "3dPics/10024462/003.jpg",
+          "3dPics/10024462/004.jpg",
+          "3dPics/10024462/005.jpg",
+          "3dPics/10024462/006.jpg",
+          "3dPics/10024462/007.jpg",
+          "3dPics/10024462/008.jpg",
+          "3dPics/10024462/009.jpg",
+          "3dPics/10024462/010.jpg",
+          "3dPics/10024462/011.jpg",
+          "3dPics/10024462/012.jpg",
+          "3dPics/10024462/013.jpg",
+          "3dPics/10024462/014.jpg",
+          "3dPics/10024462/015.jpg",
+          "3dPics/10024462/016.jpg",
+          "3dPics/10024462/017.jpg",
+          "3dPics/10024462/018.jpg",
+          "3dPics/10024462/019.jpg",
+          "3dPics/10024462/020.jpg",
+          "3dPics/10024462/021.jpg",
+          "3dPics/10024462/022.jpg",
+          "3dPics/10024462/023.jpg",
+          "3dPics/10024462/024.jpg",
+          "3dPics/10024462/025.jpg",
+          "3dPics/10024462/026.jpg",
+          "3dPics/10024462/027.jpg",
+          "3dPics/10024462/028.jpg",
+          "3dPics/10024462/029.jpg",
+          "3dPics/10024462/030.jpg",
+          "3dPics/10024462/031.jpg",
+          "3dPics/10024462/032.jpg",
+          "3dPics/10024462/033.jpg",
+          "3dPics/10024462/034.jpg",
+          "3dPics/10024462/035.jpg",
+          "3dPics/10024462/036.jpg",
+          "3dPics/10024462/s_001.jpg",
+          "3dPics/10024462/s_002.jpg",
+          "3dPics/10024462/s_003.jpg",
+          "3dPics/10024462/s_004.jpg",
+          "3dPics/10024462/s_005.jpg",
+          "3dPics/10024462/s_006.jpg",
+          "3dPics/10024462/s_007.jpg",
+          "3dPics/10024462/s_008.jpg",
+          "3dPics/10024462/s_009.jpg",
+          "3dPics/10024462/s_010.jpg",
+          "3dPics/10024462/s_011.jpg",
+          "3dPics/10024462/s_012.jpg",
+          "3dPics/10024462/s_013.jpg",
+          "3dPics/10024462/s_014.jpg",
+          "3dPics/10024462/s_015.jpg",
+          "3dPics/10024462/s_016.jpg",
+          "3dPics/10024462/s_017.jpg",
+          "3dPics/10024462/s_018.jpg",
+          "3dPics/10024462/s_019.jpg",
+          "3dPics/10024462/s_020.jpg",
+          "3dPics/10024462/s_021.jpg",
+          "3dPics/10024462/s_022.jpg",
+          "3dPics/10024462/s_023.jpg",
+          "3dPics/10024462/s_024.jpg",
+          "3dPics/10024462/s_025.jpg",
+          "3dPics/10024462/s_026.jpg",
+          "3dPics/10024462/s_027.jpg",
+          "3dPics/10024462/s_028.jpg",
+          "3dPics/10024462/s_029.jpg",
+          "3dPics/10024462/s_030.jpg",
+          "3dPics/10024462/s_031.jpg",
+          "3dPics/10024462/s_032.jpg",
+          "3dPics/10024462/s_033.jpg",
+          "3dPics/10024462/s_034.jpg",
+          "3dPics/10024462/s_035.jpg",
+          "3dPics/10024462/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/10024462bb.jpg",
+          "Big/10024462bb1.jpg",
+          "Big/10024462bb2.jpg",
+          "Big/10024462bb3.jpg",
+          "Big/10024462bb4.jpg",
+          "Big/10024462bb5.jpg",
+          "Big/10024462bb6.jpg",
+          "Big/10024462bb7.jpg",
+          "Big/10024462bb8.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "1687",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Телевизоры и цифровое ТВ",
+            "groupId": "16126",
+            "seoId": "1",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Телевизоры",
+            "groupId": "16129",
+            "seoId": "65",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "ЖК LED-телевизоры",
+            "groupId": "16130",
+            "seoId": "990",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/10024462.pdf"
+        ],
+        "instructions": [
+          "ins/10024462.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 4.760869565217392,
+          "count": 138,
+          "percent": 91
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "50162653",
+        "name": "Внешний жесткий диск 2.5\" Seagate Expansion 1TB (STKN1000400)",
+        "nameTranslit": "vneshnii-zhestkii-disk-25-seagate-expansion-1tb-stkn1000400",
+        "brandName": "Seagate",
+        "materialSource": "ERP",
+        "productType": "ACSS",
+        "images": [
+          "Pdb/50162653.jpg",
+          "Pdb/50162653b.jpg",
+          "Pdb/50162653b1.jpg",
+          "Pdb/50162653b2.jpg",
+          "Pdb/50162653s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "499",
+          "name": "Внешние жёсткие диски 2.5\""
+        },
+        "materialCisNumber": "50162653",
+        "description": null,
+        "modelName": "Expansion 1TB (STKN1000400)",
+        "properties": {
+          "key": [
+            {
+              "name": "Жесткий диск",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 30850952,
+                  "name": "Объем HDD",
+                  "value": "1 ТБ",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Габаритные размеры",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 90,
+                  "name": "Габаритные размеры (В*Ш*Г)",
+                  "value": "117*11*114",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/50162653b.jpg",
+        "images3d": [],
+        "imagesBig": [
+          "Big/50162653bb.jpg",
+          "Big/50162653bb1.jpg",
+          "Big/50162653bb2.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "1497",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Компьютерные аксессуары",
+            "groupId": "16637",
+            "seoId": "24",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Внешние жёсткие диски и SSD",
+            "groupId": "16646",
+            "seoId": "184",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Внешние жёсткие диски 2.5\"",
+            "groupId": "16647",
+            "seoId": "499",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/50162653.pdf"
+        ],
+        "instructions": [],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": null,
+          "count": null,
+          "percent": null
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "10026287",
+        "name": "Телевизор Samsung UE50AU7570U",
+        "nameTranslit": "televizor-samsung-ue50au7570u",
+        "brandName": "Samsung",
+        "materialSource": "ERP",
+        "productType": "AV",
+        "images": [
+          "Pdb/10026287.jpg",
+          "Pdb/10026287b.jpg",
+          "Pdb/10026287b1.jpg",
+          "Pdb/10026287b2.jpg",
+          "Pdb/10026287b21.jpg",
+          "Pdb/10026287b22.jpg",
+          "Pdb/10026287b23.jpg",
+          "Pdb/10026287b24.jpg",
+          "Pdb/10026287b3.jpg",
+          "Pdb/10026287b4.jpg",
+          "Pdb/10026287b5.jpg",
+          "Pdb/10026287b6.jpg",
+          "Pdb/10026287b7.jpg",
+          "Pdb/10026287b8.jpg",
+          "Pdb/10026287s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "1682",
+          "name": "4K (UHD) телевизоры"
+        },
+        "materialCisNumber": "10026287",
+        "description": null,
+        "modelName": "UE50AU7570U",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30852874,
+                  "name": "Экран",
+                  "value": "50\"/3840x2160 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                },
+                {
+                  "id": 30852683,
+                  "name": "Тип технологии HDR",
+                  "value": "HDR 10+",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 2473,
+                  "name": "Технология HDR",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                },
+                {
+                  "id": 208,
+                  "name": "Поддержка Smart TV",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                },
+                {
+                  "id": 615868,
+                  "name": "Поддержка Wi-Fi",
+                  "value": "Да",
+                  "nameDescription": "Возможность устройства выходить в интернет, используя беспроводной интерфейс.",
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальные акустические системы",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 143,
+                  "name": "Мощность фронтальных АС",
+                  "value": "20 Вт",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Bluetooth",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 613102,
+                  "name": "Встроенный модуль Bluetooth",
+                  "value": "Да",
+                  "nameDescription": "Модуль для беспроводного подключения к другим устройствам, в том числе и смартфонам.",
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 30851720,
+                  "name": "Операционная система",
+                  "value": "Tizen OS",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Интерфейсы",
+              "priority": 17,
+              "properties": [
+                {
+                  "id": 134,
+                  "name": "Порт USB 2.0 тип A",
+                  "value": "2",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 2.0.",
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": "шт"
+                },
+                {
+                  "id": 179,
+                  "name": "Вход HDMI",
+                  "value": "3",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 19,
+                  "measure": "шт"
+                },
+                {
+                  "id": 180,
+                  "name": "Версия HDMI",
+                  "value": "2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 20,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Воспроизведение с цифровых носителей",
+              "priority": 18,
+              "properties": [
+                {
+                  "id": 5339,
+                  "name": "Воспроизведение с USB",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Дистанционное управление",
+              "priority": 21,
+              "properties": [
+                {
+                  "id": 199,
+                  "name": "Тип дистанционного управления",
+                  "value": "Bluetooth",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 21,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/10026287b.jpg",
+        "images3d": [
+          "3dPics/10026287/001.jpg",
+          "3dPics/10026287/002.jpg",
+          "3dPics/10026287/003.jpg",
+          "3dPics/10026287/004.jpg",
+          "3dPics/10026287/005.jpg",
+          "3dPics/10026287/006.jpg",
+          "3dPics/10026287/007.jpg",
+          "3dPics/10026287/008.jpg",
+          "3dPics/10026287/009.jpg",
+          "3dPics/10026287/010.jpg",
+          "3dPics/10026287/011.jpg",
+          "3dPics/10026287/012.jpg",
+          "3dPics/10026287/013.jpg",
+          "3dPics/10026287/014.jpg",
+          "3dPics/10026287/015.jpg",
+          "3dPics/10026287/016.jpg",
+          "3dPics/10026287/017.jpg",
+          "3dPics/10026287/018.jpg",
+          "3dPics/10026287/019.jpg",
+          "3dPics/10026287/020.jpg",
+          "3dPics/10026287/021.jpg",
+          "3dPics/10026287/022.jpg",
+          "3dPics/10026287/023.jpg",
+          "3dPics/10026287/024.jpg",
+          "3dPics/10026287/025.jpg",
+          "3dPics/10026287/026.jpg",
+          "3dPics/10026287/027.jpg",
+          "3dPics/10026287/028.jpg",
+          "3dPics/10026287/029.jpg",
+          "3dPics/10026287/030.jpg",
+          "3dPics/10026287/031.jpg",
+          "3dPics/10026287/032.jpg",
+          "3dPics/10026287/033.jpg",
+          "3dPics/10026287/034.jpg",
+          "3dPics/10026287/035.jpg",
+          "3dPics/10026287/036.jpg",
+          "3dPics/10026287/s_001.jpg",
+          "3dPics/10026287/s_002.jpg",
+          "3dPics/10026287/s_003.jpg",
+          "3dPics/10026287/s_004.jpg",
+          "3dPics/10026287/s_005.jpg",
+          "3dPics/10026287/s_006.jpg",
+          "3dPics/10026287/s_007.jpg",
+          "3dPics/10026287/s_008.jpg",
+          "3dPics/10026287/s_009.jpg",
+          "3dPics/10026287/s_010.jpg",
+          "3dPics/10026287/s_011.jpg",
+          "3dPics/10026287/s_012.jpg",
+          "3dPics/10026287/s_013.jpg",
+          "3dPics/10026287/s_014.jpg",
+          "3dPics/10026287/s_015.jpg",
+          "3dPics/10026287/s_016.jpg",
+          "3dPics/10026287/s_017.jpg",
+          "3dPics/10026287/s_018.jpg",
+          "3dPics/10026287/s_019.jpg",
+          "3dPics/10026287/s_020.jpg",
+          "3dPics/10026287/s_021.jpg",
+          "3dPics/10026287/s_022.jpg",
+          "3dPics/10026287/s_023.jpg",
+          "3dPics/10026287/s_024.jpg",
+          "3dPics/10026287/s_025.jpg",
+          "3dPics/10026287/s_026.jpg",
+          "3dPics/10026287/s_027.jpg",
+          "3dPics/10026287/s_028.jpg",
+          "3dPics/10026287/s_029.jpg",
+          "3dPics/10026287/s_030.jpg",
+          "3dPics/10026287/s_031.jpg",
+          "3dPics/10026287/s_032.jpg",
+          "3dPics/10026287/s_033.jpg",
+          "3dPics/10026287/s_034.jpg",
+          "3dPics/10026287/s_035.jpg",
+          "3dPics/10026287/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/10026287bb.jpg",
+          "Big/10026287bb1.jpg",
+          "Big/10026287bb2.jpg",
+          "Big/10026287bb21.jpg",
+          "Big/10026287bb22.jpg",
+          "Big/10026287bb23.jpg",
+          "Big/10026287bb24.jpg",
+          "Big/10026287bb3.jpg",
+          "Big/10026287bb4.jpg",
+          "Big/10026287bb5.jpg",
+          "Big/10026287bb6.jpg",
+          "Big/10026287bb7.jpg",
+          "Big/10026287bb8.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "13",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Телевизоры и цифровое ТВ",
+            "groupId": "16126",
+            "seoId": "1",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Телевизоры",
+            "groupId": "16129",
+            "seoId": "65",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "4K (UHD) телевизоры",
+            "groupId": "16132",
+            "seoId": "1682",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/10026287.pdf"
+        ],
+        "instructions": [],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 4.75,
+          "count": 4,
+          "percent": 91
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "30058843",
+        "name": "Смартфон realme GT Master Edition 6+128GB Voyager Grey (RMX3363)",
+        "nameTranslit": "smartfon-realme-gt-master-edition-6128gb-voyager-grey-rmx3363",
+        "brandName": "realme",
+        "materialSource": "ERP",
+        "productType": "DIG",
+        "images": [
+          "Pdb/30058843.jpg",
+          "Pdb/30058843b.jpg",
+          "Pdb/30058843b1.jpg",
+          "Pdb/30058843b2.jpg",
+          "Pdb/30058843b3.jpg",
+          "Pdb/30058843b4.jpg",
+          "Pdb/30058843b5.jpg",
+          "Pdb/30058843b6.jpg",
+          "Pdb/30058843b7.jpg",
+          "Pdb/30058843b8.jpg",
+          "Pdb/30058843s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "761",
+          "name": "Смартфоны"
+        },
+        "materialCisNumber": "30058843",
+        "description": null,
+        "modelName": "GT Master Edition 6+128GB Voyager Grey (RMX3363)",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30848201,
+                  "name": "Экран",
+                  "value": "6.43\"/2400x1080 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Процессор",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 619180,
+                  "name": "Процессор",
+                  "value": "Qualcomm Snapdragon 778G 1 х 2.4ГГц + 3 х 2.2ГГц + 4 х 1.9ГГц",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Оперативная память",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 30852805,
+                  "name": "Оперативная память (RAM)",
+                  "value": "6",
+                  "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": "ГБ"
+                }
+              ]
+            },
+            {
+              "name": "Встроенная память",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 613463,
+                  "name": "Встроенная память (ROM)",
+                  "value": "128",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": "ГБ"
+                }
+              ]
+            },
+            {
+              "name": "Основная камера",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 30848204,
+                  "name": "Основная камера МПикс",
+                  "value": "64/8/2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальная камера",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 30852958,
+                  "name": "Фронтальная камера МПикс",
+                  "value": "32",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Передача данных",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 153,
+                  "name": "Технология NFC",
+                  "value": "Да",
+                  "nameDescription": "Технология беспроводной передачи данных малого радиуса действия – не более 10 см.  Используется для обмена информацией между устройствами, бесконтактной оплаты покупок смартфоном \nи т.д.",
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                },
+                {
+                  "id": 30852925,
+                  "name": "Поддержка стандартов",
+                  "value": "2G/3G/4G LTE/5G",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "SIM карта",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 30852858,
+                  "name": "SIM карта",
+                  "value": "2 nano-SIM",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 17,
+              "properties": [
+                {
+                  "id": 11908,
+                  "name": "Емкость аккумулятора",
+                  "value": "4300",
+                  "nameDescription": "Параметр, указывающий на возможность аккумулятора прибора поддерживать его автономную работу. Чем выше ёмкость, тем дольше устройство сможет функционировать без подключения к сети, но тем дольше придётся его заряжать.",
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": "мАч"
+                },
+                {
+                  "id": 30852685,
+                  "name": "Поддержка быстрой зарядки",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Безопасность",
+              "priority": 21,
+              "properties": [
+                {
+                  "id": 30852679,
+                  "name": "Сканер отпечатка пальца под экраном",
+                  "value": "Да",
+                  "nameDescription": "Сканер отпечатка пальца интегрирован в экран смартфона.",
+                  "valueDescription": null,
+                  "priority": 21,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/30058843b.jpg",
+        "images3d": [
+          "3dPics/30058843/001.jpg",
+          "3dPics/30058843/002.jpg",
+          "3dPics/30058843/003.jpg",
+          "3dPics/30058843/004.jpg",
+          "3dPics/30058843/005.jpg",
+          "3dPics/30058843/006.jpg",
+          "3dPics/30058843/007.jpg",
+          "3dPics/30058843/008.jpg",
+          "3dPics/30058843/009.jpg",
+          "3dPics/30058843/010.jpg",
+          "3dPics/30058843/011.jpg",
+          "3dPics/30058843/012.jpg",
+          "3dPics/30058843/013.jpg",
+          "3dPics/30058843/014.jpg",
+          "3dPics/30058843/015.jpg",
+          "3dPics/30058843/016.jpg",
+          "3dPics/30058843/017.jpg",
+          "3dPics/30058843/018.jpg",
+          "3dPics/30058843/019.jpg",
+          "3dPics/30058843/020.jpg",
+          "3dPics/30058843/021.jpg",
+          "3dPics/30058843/022.jpg",
+          "3dPics/30058843/023.jpg",
+          "3dPics/30058843/024.jpg",
+          "3dPics/30058843/025.jpg",
+          "3dPics/30058843/026.jpg",
+          "3dPics/30058843/027.jpg",
+          "3dPics/30058843/028.jpg",
+          "3dPics/30058843/029.jpg",
+          "3dPics/30058843/030.jpg",
+          "3dPics/30058843/031.jpg",
+          "3dPics/30058843/032.jpg",
+          "3dPics/30058843/033.jpg",
+          "3dPics/30058843/034.jpg",
+          "3dPics/30058843/035.jpg",
+          "3dPics/30058843/036.jpg",
+          "3dPics/30058843/s_001.jpg",
+          "3dPics/30058843/s_002.jpg",
+          "3dPics/30058843/s_003.jpg",
+          "3dPics/30058843/s_004.jpg",
+          "3dPics/30058843/s_005.jpg",
+          "3dPics/30058843/s_006.jpg",
+          "3dPics/30058843/s_007.jpg",
+          "3dPics/30058843/s_008.jpg",
+          "3dPics/30058843/s_009.jpg",
+          "3dPics/30058843/s_010.jpg",
+          "3dPics/30058843/s_011.jpg",
+          "3dPics/30058843/s_012.jpg",
+          "3dPics/30058843/s_013.jpg",
+          "3dPics/30058843/s_014.jpg",
+          "3dPics/30058843/s_015.jpg",
+          "3dPics/30058843/s_016.jpg",
+          "3dPics/30058843/s_017.jpg",
+          "3dPics/30058843/s_018.jpg",
+          "3dPics/30058843/s_019.jpg",
+          "3dPics/30058843/s_020.jpg",
+          "3dPics/30058843/s_021.jpg",
+          "3dPics/30058843/s_022.jpg",
+          "3dPics/30058843/s_023.jpg",
+          "3dPics/30058843/s_024.jpg",
+          "3dPics/30058843/s_025.jpg",
+          "3dPics/30058843/s_026.jpg",
+          "3dPics/30058843/s_027.jpg",
+          "3dPics/30058843/s_028.jpg",
+          "3dPics/30058843/s_029.jpg",
+          "3dPics/30058843/s_030.jpg",
+          "3dPics/30058843/s_031.jpg",
+          "3dPics/30058843/s_032.jpg",
+          "3dPics/30058843/s_033.jpg",
+          "3dPics/30058843/s_034.jpg",
+          "3dPics/30058843/s_035.jpg",
+          "3dPics/30058843/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/30058843bb.jpg",
+          "Big/30058843bb1.jpg",
+          "Big/30058843bb2.jpg",
+          "Big/30058843bb3.jpg",
+          "Big/30058843bb4.jpg",
+          "Big/30058843bb5.jpg",
+          "Big/30058843bb6.jpg",
+          "Big/30058843bb7.jpg",
+          "Big/30058843bb8.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "4488",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Смартфоны и связь",
+            "groupId": "16430",
+            "seoId": "10",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Смартфоны",
+            "groupId": "16433",
+            "seoId": "205",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Смартфоны",
+            "groupId": "16434",
+            "seoId": "761",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/30058843.pdf"
+        ],
+        "instructions": [],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 5,
+          "count": 4,
+          "percent": 101
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "30057554",
+        "name": "Ноутбук HP 15s-fq2029ur 2Y4F7EA",
+        "nameTranslit": "noutbuk-hp-15s-fq2029ur-2y4f7ea",
+        "brandName": "HP",
+        "materialSource": "ERP",
+        "productType": "DIG",
+        "images": [
+          "Pdb/30057554.jpg",
+          "Pdb/30057554b.jpg",
+          "Pdb/30057554b1.jpg",
+          "Pdb/30057554b21.jpg",
+          "Pdb/30057554b22.jpg",
+          "Pdb/30057554b23.jpg",
+          "Pdb/30057554b24.jpg",
+          "Pdb/30057554s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "987",
+          "name": "Ноутбуки"
+        },
+        "materialCisNumber": "30057554",
+        "description": null,
+        "modelName": "15s-fq2029ur 2Y4F7EA",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 621,
+                  "name": "Диагональ/разрешение",
+                  "value": "15.6\"/1920x1080 пикс.",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Процессор",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 30852930,
+                  "name": "Процессор",
+                  "value": "Intel Pentium Gold 7505 2.0 ГГц",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Оперативная память",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 30852805,
+                  "name": "Оперативная память (RAM)",
+                  "value": "4",
+                  "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": "ГБ"
+                }
+              ]
+            },
+            {
+              "name": "Видеокарта",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 620,
+                  "name": "Графический контроллер",
+                  "value": "Intel UHD Graphics",
+                  "nameDescription": "Модуль компьютера, отвечающий за обработку графической составляющей данных.",
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Жесткий диск",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 30850950,
+                  "name": "Объем SSD",
+                  "value": "256 ГБ",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 30852971,
+                  "name": "Операционная система",
+                  "value": "DOS",
+                  "nameDescription": "Комплекс программ для управления компьютером.  В современных устройствах используются операционные системы (ОС) Windos, Linux и macOS.​",
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 13,
+              "properties": [
+                {
+                  "id": 266,
+                  "name": "Работа от аккумулятора",
+                  "value": "до 7 часов",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 13,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Вес",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 91,
+                  "name": "Вес",
+                  "value": "1.69",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": "кг"
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/30057554b.jpg",
+        "images3d": [
+          "3dPics/30057554/001.jpg",
+          "3dPics/30057554/002.jpg",
+          "3dPics/30057554/003.jpg",
+          "3dPics/30057554/004.jpg",
+          "3dPics/30057554/005.jpg",
+          "3dPics/30057554/006.jpg",
+          "3dPics/30057554/007.jpg",
+          "3dPics/30057554/008.jpg",
+          "3dPics/30057554/009.jpg",
+          "3dPics/30057554/010.jpg",
+          "3dPics/30057554/011.jpg",
+          "3dPics/30057554/012.jpg",
+          "3dPics/30057554/013.jpg",
+          "3dPics/30057554/014.jpg",
+          "3dPics/30057554/015.jpg",
+          "3dPics/30057554/016.jpg",
+          "3dPics/30057554/017.jpg",
+          "3dPics/30057554/018.jpg",
+          "3dPics/30057554/019.jpg",
+          "3dPics/30057554/020.jpg",
+          "3dPics/30057554/021.jpg",
+          "3dPics/30057554/022.jpg",
+          "3dPics/30057554/023.jpg",
+          "3dPics/30057554/024.jpg",
+          "3dPics/30057554/025.jpg",
+          "3dPics/30057554/026.jpg",
+          "3dPics/30057554/027.jpg",
+          "3dPics/30057554/028.jpg",
+          "3dPics/30057554/029.jpg",
+          "3dPics/30057554/030.jpg",
+          "3dPics/30057554/031.jpg",
+          "3dPics/30057554/032.jpg",
+          "3dPics/30057554/033.jpg",
+          "3dPics/30057554/034.jpg",
+          "3dPics/30057554/035.jpg",
+          "3dPics/30057554/036.jpg",
+          "3dPics/30057554/s_001.jpg",
+          "3dPics/30057554/s_002.jpg",
+          "3dPics/30057554/s_003.jpg",
+          "3dPics/30057554/s_004.jpg",
+          "3dPics/30057554/s_005.jpg",
+          "3dPics/30057554/s_006.jpg",
+          "3dPics/30057554/s_007.jpg",
+          "3dPics/30057554/s_008.jpg",
+          "3dPics/30057554/s_009.jpg",
+          "3dPics/30057554/s_010.jpg",
+          "3dPics/30057554/s_011.jpg",
+          "3dPics/30057554/s_012.jpg",
+          "3dPics/30057554/s_013.jpg",
+          "3dPics/30057554/s_014.jpg",
+          "3dPics/30057554/s_015.jpg",
+          "3dPics/30057554/s_016.jpg",
+          "3dPics/30057554/s_017.jpg",
+          "3dPics/30057554/s_018.jpg",
+          "3dPics/30057554/s_019.jpg",
+          "3dPics/30057554/s_020.jpg",
+          "3dPics/30057554/s_021.jpg",
+          "3dPics/30057554/s_022.jpg",
+          "3dPics/30057554/s_023.jpg",
+          "3dPics/30057554/s_024.jpg",
+          "3dPics/30057554/s_025.jpg",
+          "3dPics/30057554/s_026.jpg",
+          "3dPics/30057554/s_027.jpg",
+          "3dPics/30057554/s_028.jpg",
+          "3dPics/30057554/s_029.jpg",
+          "3dPics/30057554/s_030.jpg",
+          "3dPics/30057554/s_031.jpg",
+          "3dPics/30057554/s_032.jpg",
+          "3dPics/30057554/s_033.jpg",
+          "3dPics/30057554/s_034.jpg",
+          "3dPics/30057554/s_035.jpg",
+          "3dPics/30057554/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/30057554bb.jpg",
+          "Big/30057554bb1.jpg",
+          "Big/30057554bb21.jpg",
+          "Big/30057554bb22.jpg",
+          "Big/30057554bb23.jpg",
+          "Big/30057554bb24.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "534",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Ноутбуки, планшеты, компьютеры",
+            "groupId": "16395",
+            "seoId": "8",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Ноутбуки",
+            "groupId": "16396",
+            "seoId": "118",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Ноутбуки",
+            "groupId": "16401",
+            "seoId": "987",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/30057554.pdf"
+        ],
+        "instructions": [
+          "ins/30057554.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 5,
+          "count": 4,
+          "percent": 101
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "30056565",
+        "name": "Смартфон realme C25 4+64GB Water Grey (RMX3191)",
+        "nameTranslit": "smartfon-realme-c25-464gb-water-grey-rmx3191",
+        "brandName": "realme",
+        "materialSource": "ERP",
+        "productType": "DIG",
+        "images": [
+          "Pdb/30056565.jpg",
+          "Pdb/30056565b.jpg",
+          "Pdb/30056565b1.jpg",
+          "Pdb/30056565b2.jpg",
+          "Pdb/30056565b3.jpg",
+          "Pdb/30056565b4.jpg",
+          "Pdb/30056565b5.jpg",
+          "Pdb/30056565b6.jpg",
+          "Pdb/30056565b7.jpg",
+          "Pdb/30056565s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "761",
+          "name": "Смартфоны"
+        },
+        "materialCisNumber": "30056565",
+        "description": null,
+        "modelName": "C25 4+64GB Water Grey (RMX3191)",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30848201,
+                  "name": "Экран",
+                  "value": "6.5\"/1600x720 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Процессор",
+              "priority": 3,
+              "properties": [
+                {
+                  "id": 619180,
+                  "name": "Процессор",
+                  "value": "Mediatek Helio G70 2 ГГц",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 3,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Оперативная память",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 30852805,
+                  "name": "Оперативная память (RAM)",
+                  "value": "4",
+                  "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": "ГБ"
+                }
+              ]
+            },
+            {
+              "name": "Встроенная память",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 613463,
+                  "name": "Встроенная память (ROM)",
+                  "value": "64",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": "ГБ"
+                }
+              ]
+            },
+            {
+              "name": "Основная камера",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 30848204,
+                  "name": "Основная камера МПикс",
+                  "value": "48/2/2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальная камера",
+              "priority": 8,
+              "properties": [
+                {
+                  "id": 30852958,
+                  "name": "Фронтальная камера МПикс",
+                  "value": "8",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Передача данных",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 153,
+                  "name": "Технология NFC",
+                  "value": "Да",
+                  "nameDescription": "Технология беспроводной передачи данных малого радиуса действия – не более 10 см.  Используется для обмена информацией между устройствами, бесконтактной оплаты покупок смартфоном \nи т.д.",
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                },
+                {
+                  "id": 30852925,
+                  "name": "Поддержка стандартов",
+                  "value": "2G/3G/4G LTE",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 12,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "SIM карта",
+              "priority": 14,
+              "properties": [
+                {
+                  "id": 30852858,
+                  "name": "SIM карта",
+                  "value": "2 nano-SIM",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 14,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Электропитание",
+              "priority": 17,
+              "properties": [
+                {
+                  "id": 11908,
+                  "name": "Емкость аккумулятора",
+                  "value": "6000",
+                  "nameDescription": "Параметр, указывающий на возможность аккумулятора прибора поддерживать его автономную работу. Чем выше ёмкость, тем дольше устройство сможет функционировать без подключения к сети, но тем дольше придётся его заряжать.",
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": "мАч"
+                },
+                {
+                  "id": 30852685,
+                  "name": "Поддержка быстрой зарядки",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Безопасность",
+              "priority": 22,
+              "properties": [
+                {
+                  "id": 30852774,
+                  "name": "Сканер отпечатка пальца на задней панели",
+                  "value": "Да",
+                  "nameDescription": "Сканер отпечатка пальца расположен на тыльной стороне смартфона.",
+                  "valueDescription": null,
+                  "priority": 22,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/30056565b.jpg",
+        "images3d": [
+          "3dPics/30056565/001.jpg",
+          "3dPics/30056565/002.jpg",
+          "3dPics/30056565/003.jpg",
+          "3dPics/30056565/004.jpg",
+          "3dPics/30056565/005.jpg",
+          "3dPics/30056565/006.jpg",
+          "3dPics/30056565/007.jpg",
+          "3dPics/30056565/008.jpg",
+          "3dPics/30056565/009.jpg",
+          "3dPics/30056565/010.jpg",
+          "3dPics/30056565/011.jpg",
+          "3dPics/30056565/012.jpg",
+          "3dPics/30056565/013.jpg",
+          "3dPics/30056565/014.jpg",
+          "3dPics/30056565/015.jpg",
+          "3dPics/30056565/016.jpg",
+          "3dPics/30056565/017.jpg",
+          "3dPics/30056565/018.jpg",
+          "3dPics/30056565/019.jpg",
+          "3dPics/30056565/020.jpg",
+          "3dPics/30056565/021.jpg",
+          "3dPics/30056565/022.jpg",
+          "3dPics/30056565/023.jpg",
+          "3dPics/30056565/024.jpg",
+          "3dPics/30056565/025.jpg",
+          "3dPics/30056565/026.jpg",
+          "3dPics/30056565/027.jpg",
+          "3dPics/30056565/028.jpg",
+          "3dPics/30056565/029.jpg",
+          "3dPics/30056565/030.jpg",
+          "3dPics/30056565/031.jpg",
+          "3dPics/30056565/032.jpg",
+          "3dPics/30056565/033.jpg",
+          "3dPics/30056565/034.jpg",
+          "3dPics/30056565/035.jpg",
+          "3dPics/30056565/036.jpg",
+          "3dPics/30056565/s_001.jpg",
+          "3dPics/30056565/s_002.jpg",
+          "3dPics/30056565/s_003.jpg",
+          "3dPics/30056565/s_004.jpg",
+          "3dPics/30056565/s_005.jpg",
+          "3dPics/30056565/s_006.jpg",
+          "3dPics/30056565/s_007.jpg",
+          "3dPics/30056565/s_008.jpg",
+          "3dPics/30056565/s_009.jpg",
+          "3dPics/30056565/s_010.jpg",
+          "3dPics/30056565/s_011.jpg",
+          "3dPics/30056565/s_012.jpg",
+          "3dPics/30056565/s_013.jpg",
+          "3dPics/30056565/s_014.jpg",
+          "3dPics/30056565/s_015.jpg",
+          "3dPics/30056565/s_016.jpg",
+          "3dPics/30056565/s_017.jpg",
+          "3dPics/30056565/s_018.jpg",
+          "3dPics/30056565/s_019.jpg",
+          "3dPics/30056565/s_020.jpg",
+          "3dPics/30056565/s_021.jpg",
+          "3dPics/30056565/s_022.jpg",
+          "3dPics/30056565/s_023.jpg",
+          "3dPics/30056565/s_024.jpg",
+          "3dPics/30056565/s_025.jpg",
+          "3dPics/30056565/s_026.jpg",
+          "3dPics/30056565/s_027.jpg",
+          "3dPics/30056565/s_028.jpg",
+          "3dPics/30056565/s_029.jpg",
+          "3dPics/30056565/s_030.jpg",
+          "3dPics/30056565/s_031.jpg",
+          "3dPics/30056565/s_032.jpg",
+          "3dPics/30056565/s_033.jpg",
+          "3dPics/30056565/s_034.jpg",
+          "3dPics/30056565/s_035.jpg",
+          "3dPics/30056565/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/30056565bb.jpg",
+          "Big/30056565bb1.jpg",
+          "Big/30056565bb2.jpg",
+          "Big/30056565bb3.jpg",
+          "Big/30056565bb4.jpg",
+          "Big/30056565bb5.jpg",
+          "Big/30056565bb6.jpg",
+          "Big/30056565bb7.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "4488",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Смартфоны и связь",
+            "groupId": "16430",
+            "seoId": "10",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Смартфоны",
+            "groupId": "16433",
+            "seoId": "205",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Смартфоны",
+            "groupId": "16434",
+            "seoId": "761",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/30056565.pdf"
+        ],
+        "instructions": [
+          "ins/30056565.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 4.7272727272727275,
+          "count": 22,
+          "percent": 91
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "10026629",
+        "name": "Телевизор LG 60UP77006LB",
+        "nameTranslit": "televizor-lg-60up77006lb",
+        "brandName": "LG",
+        "materialSource": "ERP",
+        "productType": "AV",
+        "images": [
+          "Pdb/10026629.jpg",
+          "Pdb/10026629b.jpg",
+          "Pdb/10026629b1.jpg",
+          "Pdb/10026629b2.jpg",
+          "Pdb/10026629b3.jpg",
+          "Pdb/10026629b4.jpg",
+          "Pdb/10026629b5.jpg",
+          "Pdb/10026629b6.jpg",
+          "Pdb/10026629b7.jpg",
+          "Pdb/10026629b8.jpg",
+          "Pdb/10026629s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "1682",
+          "name": "4K (UHD) телевизоры"
+        },
+        "materialCisNumber": "10026629",
+        "description": null,
+        "modelName": "60UP77006LB",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30852874,
+                  "name": "Экран",
+                  "value": "60\"/3840x2160 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                },
+                {
+                  "id": 30852683,
+                  "name": "Тип технологии HDR",
+                  "value": "Active HDR",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 2473,
+                  "name": "Технология HDR",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                },
+                {
+                  "id": 208,
+                  "name": "Поддержка Smart TV",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                },
+                {
+                  "id": 615868,
+                  "name": "Поддержка Wi-Fi",
+                  "value": "Да",
+                  "nameDescription": "Возможность устройства выходить в интернет, используя беспроводной интерфейс.",
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальные акустические системы",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 143,
+                  "name": "Мощность фронтальных АС",
+                  "value": "2 x 10 Вт",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Bluetooth",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 613102,
+                  "name": "Встроенный модуль Bluetooth",
+                  "value": "Да",
+                  "nameDescription": "Модуль для беспроводного подключения к другим устройствам, в том числе и смартфонам.",
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 30851720,
+                  "name": "Операционная система",
+                  "value": "WebOS",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Интерфейсы",
+              "priority": 17,
+              "properties": [
+                {
+                  "id": 134,
+                  "name": "Порт USB 2.0 тип A",
+                  "value": "1",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 2.0.",
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": "шт"
+                },
+                {
+                  "id": 179,
+                  "name": "Вход HDMI",
+                  "value": "2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 19,
+                  "measure": "шт"
+                },
+                {
+                  "id": 180,
+                  "name": "Версия HDMI",
+                  "value": "2",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 20,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Воспроизведение с цифровых носителей",
+              "priority": 18,
+              "properties": [
+                {
+                  "id": 5339,
+                  "name": "Воспроизведение с USB",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Дистанционное управление",
+              "priority": 21,
+              "properties": [
+                {
+                  "id": 199,
+                  "name": "Тип дистанционного управления",
+                  "value": "Bluetooth",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 21,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/10026629b.jpg",
+        "images3d": [
+          "3dPics/10026629/001.jpg",
+          "3dPics/10026629/002.jpg",
+          "3dPics/10026629/003.jpg",
+          "3dPics/10026629/004.jpg",
+          "3dPics/10026629/005.jpg",
+          "3dPics/10026629/006.jpg",
+          "3dPics/10026629/007.jpg",
+          "3dPics/10026629/008.jpg",
+          "3dPics/10026629/009.jpg",
+          "3dPics/10026629/010.jpg",
+          "3dPics/10026629/011.jpg",
+          "3dPics/10026629/012.jpg",
+          "3dPics/10026629/013.jpg",
+          "3dPics/10026629/014.jpg",
+          "3dPics/10026629/015.jpg",
+          "3dPics/10026629/016.jpg",
+          "3dPics/10026629/017.jpg",
+          "3dPics/10026629/018.jpg",
+          "3dPics/10026629/019.jpg",
+          "3dPics/10026629/020.jpg",
+          "3dPics/10026629/021.jpg",
+          "3dPics/10026629/022.jpg",
+          "3dPics/10026629/023.jpg",
+          "3dPics/10026629/024.jpg",
+          "3dPics/10026629/025.jpg",
+          "3dPics/10026629/026.jpg",
+          "3dPics/10026629/027.jpg",
+          "3dPics/10026629/028.jpg",
+          "3dPics/10026629/029.jpg",
+          "3dPics/10026629/030.jpg",
+          "3dPics/10026629/031.jpg",
+          "3dPics/10026629/032.jpg",
+          "3dPics/10026629/033.jpg",
+          "3dPics/10026629/034.jpg",
+          "3dPics/10026629/035.jpg",
+          "3dPics/10026629/036.jpg",
+          "3dPics/10026629/s_001.jpg",
+          "3dPics/10026629/s_002.jpg",
+          "3dPics/10026629/s_003.jpg",
+          "3dPics/10026629/s_004.jpg",
+          "3dPics/10026629/s_005.jpg",
+          "3dPics/10026629/s_006.jpg",
+          "3dPics/10026629/s_007.jpg",
+          "3dPics/10026629/s_008.jpg",
+          "3dPics/10026629/s_009.jpg",
+          "3dPics/10026629/s_010.jpg",
+          "3dPics/10026629/s_011.jpg",
+          "3dPics/10026629/s_012.jpg",
+          "3dPics/10026629/s_013.jpg",
+          "3dPics/10026629/s_014.jpg",
+          "3dPics/10026629/s_015.jpg",
+          "3dPics/10026629/s_016.jpg",
+          "3dPics/10026629/s_017.jpg",
+          "3dPics/10026629/s_018.jpg",
+          "3dPics/10026629/s_019.jpg",
+          "3dPics/10026629/s_020.jpg",
+          "3dPics/10026629/s_021.jpg",
+          "3dPics/10026629/s_022.jpg",
+          "3dPics/10026629/s_023.jpg",
+          "3dPics/10026629/s_024.jpg",
+          "3dPics/10026629/s_025.jpg",
+          "3dPics/10026629/s_026.jpg",
+          "3dPics/10026629/s_027.jpg",
+          "3dPics/10026629/s_028.jpg",
+          "3dPics/10026629/s_029.jpg",
+          "3dPics/10026629/s_030.jpg",
+          "3dPics/10026629/s_031.jpg",
+          "3dPics/10026629/s_032.jpg",
+          "3dPics/10026629/s_033.jpg",
+          "3dPics/10026629/s_034.jpg",
+          "3dPics/10026629/s_035.jpg",
+          "3dPics/10026629/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/10026629bb.jpg",
+          "Big/10026629bb1.jpg",
+          "Big/10026629bb2.jpg",
+          "Big/10026629bb3.jpg",
+          "Big/10026629bb4.jpg",
+          "Big/10026629bb5.jpg",
+          "Big/10026629bb6.jpg",
+          "Big/10026629bb7.jpg",
+          "Big/10026629bb8.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "80",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Телевизоры и цифровое ТВ",
+            "groupId": "16126",
+            "seoId": "1",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Телевизоры",
+            "groupId": "16129",
+            "seoId": "65",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "4K (UHD) телевизоры",
+            "groupId": "16132",
+            "seoId": "1682",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/10026629.pdf"
+        ],
+        "instructions": [
+          "ins/10026629.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 5,
+          "count": 4,
+          "percent": 101
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "50164507",
+        "name": "Wi-Fi роутер TP-Link Archer AX55 AX3000",
+        "nameTranslit": "wi-fi-router-tp-link-archer-ax55-ax3000",
+        "brandName": "TP-Link",
+        "materialSource": "ERP",
+        "productType": "ACSS",
+        "images": [
+          "Pdb/50164507.jpg",
+          "Pdb/50164507b.jpg",
+          "Pdb/50164507b1.jpg",
+          "Pdb/50164507b2.jpg",
+          "Pdb/50164507b3.jpg",
+          "Pdb/50164507s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "515",
+          "name": "Роутеры"
+        },
+        "materialCisNumber": "50164507",
+        "description": null,
+        "modelName": "Archer AX55 AX3000",
+        "properties": {
+          "key": [
+            {
+              "name": "Беспроводные сети",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 606,
+                  "name": "Стандарт IEEE 802.11",
+                  "value": "a/ b/ g/ n/ ac/ ax",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Передача данных",
+              "priority": 2,
+              "properties": [
+                {
+                  "id": 602,
+                  "name": "Скорость передачи данных (Wi-Fi)",
+                  "value": "574+2402 Мбит/с",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 2,
+                  "measure": null
+                },
+                {
+                  "id": 603,
+                  "name": "Скорость передачи данных (LAN)",
+                  "value": "1000 Мбит/ с",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Интерфейсы",
+              "priority": 5,
+              "properties": [
+                {
+                  "id": 599,
+                  "name": "Вход LAN (RJ-45)",
+                  "value": "1",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": "шт"
+                },
+                {
+                  "id": 600,
+                  "name": "Выход LAN (RJ-45)",
+                  "value": "4",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": "шт"
+                },
+                {
+                  "id": 627,
+                  "name": "Порт USB 3.0 тип A",
+                  "value": "1",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 3.0.",
+                  "valueDescription": null,
+                  "priority": 10,
+                  "measure": "шт"
+                }
+              ]
+            },
+            {
+              "name": "Антенна",
+              "priority": 7,
+              "properties": [
+                {
+                  "id": 598,
+                  "name": "Количество антенн",
+                  "value": "4",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                },
+                {
+                  "id": 2512,
+                  "name": "Коэффициент усиления антенн",
+                  "value": "4x5 dBi",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 8,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/50164507b.jpg",
+        "images3d": [],
+        "imagesBig": [
+          "Big/50164507bb.jpg",
+          "Big/50164507bb1.jpg",
+          "Big/50164507bb2.jpg",
+          "Big/50164507bb3.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "1892",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Компьютерные аксессуары",
+            "groupId": "16637",
+            "seoId": "24",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Роутеры и сетевое оборудование",
+            "groupId": "16644",
+            "seoId": "186",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "Роутеры",
+            "groupId": "16650",
+            "seoId": "515",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/50164507.pdf"
+        ],
+        "instructions": [
+          "ins/50164507.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": true,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 5,
+          "count": 3,
+          "percent": 101
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      },
+      {
+        "productId": "10025585",
+        "name": "Телевизор Novex NVX-55U321MSY",
+        "nameTranslit": "televizor-novex-nvx-55u321msy",
+        "brandName": "Novex",
+        "materialSource": "ERP",
+        "productType": "AV",
+        "images": [
+          "Pdb/10025585.jpg",
+          "Pdb/10025585b.jpg",
+          "Pdb/10025585b1.jpg",
+          "Pdb/10025585b2.jpg",
+          "Pdb/10025585b3.jpg",
+          "Pdb/10025585b4.jpg",
+          "Pdb/10025585b5.jpg",
+          "Pdb/10025585b6.jpg",
+          "Pdb/10025585b7.jpg",
+          "Pdb/10025585s.jpg"
+        ],
+        "vendorCatalog": null,
+        "partnerType": null,
+        "category": {
+          "id": "1682",
+          "name": "4K (UHD) телевизоры"
+        },
+        "materialCisNumber": "10025585",
+        "description": null,
+        "modelName": "NVX-55U321MSY",
+        "properties": {
+          "key": [
+            {
+              "name": "Экран",
+              "priority": 1,
+              "properties": [
+                {
+                  "id": 30852874,
+                  "name": "Экран",
+                  "value": "55\"/3840x2160 Пикс",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 1,
+                  "measure": null
+                },
+                {
+                  "id": 30852683,
+                  "name": "Тип технологии HDR",
+                  "value": "HDR10",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 5,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Функции",
+              "priority": 4,
+              "properties": [
+                {
+                  "id": 2473,
+                  "name": "Технология HDR",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 4,
+                  "measure": null
+                },
+                {
+                  "id": 208,
+                  "name": "Поддержка Smart TV",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 7,
+                  "measure": null
+                },
+                {
+                  "id": 615868,
+                  "name": "Поддержка Wi-Fi",
+                  "value": "Да",
+                  "nameDescription": "Возможность устройства выходить в интернет, используя беспроводной интерфейс.",
+                  "valueDescription": null,
+                  "priority": 15,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Фронтальные акустические системы",
+              "priority": 6,
+              "properties": [
+                {
+                  "id": 143,
+                  "name": "Мощность фронтальных АС",
+                  "value": "2 x 10 Вт",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 6,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Bluetooth",
+              "priority": 9,
+              "properties": [
+                {
+                  "id": 613102,
+                  "name": "Встроенный модуль Bluetooth",
+                  "value": "Да",
+                  "nameDescription": "Модуль для беспроводного подключения к другим устройствам, в том числе и смартфонам.",
+                  "valueDescription": null,
+                  "priority": 9,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Операционная система",
+              "priority": 11,
+              "properties": [
+                {
+                  "id": 30851720,
+                  "name": "Операционная система",
+                  "value": "Яндекс.ТВ",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 11,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Интерфейсы",
+              "priority": 17,
+              "properties": [
+                {
+                  "id": 134,
+                  "name": "Порт USB 2.0 тип A",
+                  "value": "2",
+                  "nameDescription": "Количество портов для подключения периферийных устройств и внешних носителей информации с интерфейсом USB 2.0.",
+                  "valueDescription": null,
+                  "priority": 17,
+                  "measure": "шт"
+                },
+                {
+                  "id": 179,
+                  "name": "Вход HDMI",
+                  "value": "3",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 19,
+                  "measure": "шт"
+                },
+                {
+                  "id": 180,
+                  "name": "Версия HDMI",
+                  "value": "2.1",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 20,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Воспроизведение с цифровых носителей",
+              "priority": 18,
+              "properties": [
+                {
+                  "id": 5339,
+                  "name": "Воспроизведение с USB",
+                  "value": "Да",
+                  "nameDescription": null,
+                  "valueDescription": null,
+                  "priority": 18,
+                  "measure": null
+                }
+              ]
+            },
+            {
+              "name": "Дистанционное управление",
+              "priority": 21,
+              "properties": [
+                {
+                  "id": 199,
+                  "name": "Тип дистанционного управления",
+                  "value": "ИК",
+                  "nameDescription": null,
+                  "valueDescription": "Для управления используется пульт ДУ с инфракрасным светодиодом. Также возможно дистанционное управление при помощи смартфона или планшета, оснащённого инфракрасным портом.",
+                  "priority": 21,
+                  "measure": null
+                }
+              ]
+            }
+          ],
+          "all": []
+        },
+        "image": "Pdb/10025585b.jpg",
+        "images3d": [
+          "3dPics/10025585/001.jpg",
+          "3dPics/10025585/002.jpg",
+          "3dPics/10025585/003.jpg",
+          "3dPics/10025585/004.jpg",
+          "3dPics/10025585/005.jpg",
+          "3dPics/10025585/006.jpg",
+          "3dPics/10025585/007.jpg",
+          "3dPics/10025585/008.jpg",
+          "3dPics/10025585/009.jpg",
+          "3dPics/10025585/010.jpg",
+          "3dPics/10025585/011.jpg",
+          "3dPics/10025585/012.jpg",
+          "3dPics/10025585/013.jpg",
+          "3dPics/10025585/014.jpg",
+          "3dPics/10025585/015.jpg",
+          "3dPics/10025585/016.jpg",
+          "3dPics/10025585/017.jpg",
+          "3dPics/10025585/018.jpg",
+          "3dPics/10025585/019.jpg",
+          "3dPics/10025585/020.jpg",
+          "3dPics/10025585/021.jpg",
+          "3dPics/10025585/022.jpg",
+          "3dPics/10025585/023.jpg",
+          "3dPics/10025585/024.jpg",
+          "3dPics/10025585/025.jpg",
+          "3dPics/10025585/026.jpg",
+          "3dPics/10025585/027.jpg",
+          "3dPics/10025585/028.jpg",
+          "3dPics/10025585/029.jpg",
+          "3dPics/10025585/030.jpg",
+          "3dPics/10025585/031.jpg",
+          "3dPics/10025585/032.jpg",
+          "3dPics/10025585/033.jpg",
+          "3dPics/10025585/034.jpg",
+          "3dPics/10025585/035.jpg",
+          "3dPics/10025585/036.jpg",
+          "3dPics/10025585/s_001.jpg",
+          "3dPics/10025585/s_002.jpg",
+          "3dPics/10025585/s_003.jpg",
+          "3dPics/10025585/s_004.jpg",
+          "3dPics/10025585/s_005.jpg",
+          "3dPics/10025585/s_006.jpg",
+          "3dPics/10025585/s_007.jpg",
+          "3dPics/10025585/s_008.jpg",
+          "3dPics/10025585/s_009.jpg",
+          "3dPics/10025585/s_010.jpg",
+          "3dPics/10025585/s_011.jpg",
+          "3dPics/10025585/s_012.jpg",
+          "3dPics/10025585/s_013.jpg",
+          "3dPics/10025585/s_014.jpg",
+          "3dPics/10025585/s_015.jpg",
+          "3dPics/10025585/s_016.jpg",
+          "3dPics/10025585/s_017.jpg",
+          "3dPics/10025585/s_018.jpg",
+          "3dPics/10025585/s_019.jpg",
+          "3dPics/10025585/s_020.jpg",
+          "3dPics/10025585/s_021.jpg",
+          "3dPics/10025585/s_022.jpg",
+          "3dPics/10025585/s_023.jpg",
+          "3dPics/10025585/s_024.jpg",
+          "3dPics/10025585/s_025.jpg",
+          "3dPics/10025585/s_026.jpg",
+          "3dPics/10025585/s_027.jpg",
+          "3dPics/10025585/s_028.jpg",
+          "3dPics/10025585/s_029.jpg",
+          "3dPics/10025585/s_030.jpg",
+          "3dPics/10025585/s_031.jpg",
+          "3dPics/10025585/s_032.jpg",
+          "3dPics/10025585/s_033.jpg",
+          "3dPics/10025585/s_034.jpg",
+          "3dPics/10025585/s_035.jpg",
+          "3dPics/10025585/s_036.jpg"
+        ],
+        "imagesBig": [
+          "Big/10025585bb.jpg",
+          "Big/10025585bb1.jpg",
+          "Big/10025585bb2.jpg",
+          "Big/10025585bb3.jpg",
+          "Big/10025585bb4.jpg",
+          "Big/10025585bb5.jpg",
+          "Big/10025585bb6.jpg",
+          "Big/10025585bb7.jpg"
+        ],
+        "brandNameTranslit": null,
+        "brandId": "973",
+        "brandUrl": null,
+        "brandLogoUrl": null,
+        "isBrandVisible": false,
+        "groups": [
+          {
+            "name": "Телевизоры и цифровое ТВ",
+            "groupId": "16126",
+            "seoId": "1",
+            "translitName": null,
+            "level": 0
+          },
+          {
+            "name": "Телевизоры",
+            "groupId": "16129",
+            "seoId": "65",
+            "translitName": null,
+            "level": 1
+          },
+          {
+            "name": "4K (UHD) телевизоры",
+            "groupId": "16132",
+            "seoId": "1682",
+            "translitName": null,
+            "level": 2
+          }
+        ],
+        "certificates": [
+          "sertificates/Certificates/10025585.pdf"
+        ],
+        "instructions": [
+          "ins/10025585.pdf"
+        ],
+        "videos": [],
+        "status": {
+          "showCase": false,
+          "availableOnlyInRetailStore": false,
+          "soldOut": false,
+          "isCannotBeExchanged": false
+        },
+        "supplier": null,
+        "rating": {
+          "star": 3.909090909090909,
+          "count": 11,
+          "percent": 71
+        },
+        "sublicense": false,
+        "customNotifications": [],
+        "variants": [],
+        "credit": null,
+        "installment": null,
+        "isWatchOnlineBtnVisible": false,
+        "watchOnlineBtnId": null,
+        "isMprimeSubscription": false
+      }
+    ]
+  }
+}
