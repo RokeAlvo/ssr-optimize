@@ -1,4 +1,6 @@
 export default {
+  modern: true,
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'ssr-optimize',
@@ -17,8 +19,7 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [
-  ],
+  css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
@@ -29,23 +30,22 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
+    // '@nuxtjs/axios',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
-  axios: {},
+  // axios: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     filenames: {
-      chunk: () => '[name].[id].[contenthash].js'
+      chunk: ({isModern}) => `[name].[contenthash:7]${isModern ? '.modern' : ''}.js`
     }
   }
 }
