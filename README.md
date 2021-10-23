@@ -135,3 +135,6 @@ Nuxt поддерживает браузеры начиная с IE9. Соотв
 >это не только nuxt такой расчудесный. [Статья о modern](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 
 Тестируем еще раз:
+!(ps100)[page-speed-results/0ee7ae72/mobile.png]
+
+Ну вот, так-то лучше, только остались без UI либы.
