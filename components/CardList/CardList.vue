@@ -47,7 +47,7 @@ export default {
   },
   async fetch() {
     try {
-      const response = await this.$axios.$get(`/api/products${this.productsGroup}.json`)
+      const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
       this.products = response.body.products
     } catch (e) {
       // eslint-disable-next-line no-console
