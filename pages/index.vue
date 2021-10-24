@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="/Pdb/10025791b.jpg" alt="main-image">
+    <img src="/Pdb/10025791b.jpg.webp" alt="main-image">
     <CardList1 :products-group="1"/>
     <CardList2 :products-group="2"/>
     <CardList3 :products-group="1"/>
