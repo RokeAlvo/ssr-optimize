@@ -16,15 +16,15 @@
 
 <script>
 const CardList1 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList1.vue')
-const CardList2 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList2.vue')
-const CardList3 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList3.vue')
-const CardList4 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList4.vue')
-const CardList5 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList5.vue')
-const CardList6 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList6.vue')
-const CardList7 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList7.vue')
-const CardList8 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList8.vue')
-const CardList9 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList8.vue')
-const CardList10 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList10.vue')
+const CardList2 = () => import(/* webpackChunkName: "CardList2" */ '~/components/CardList/CardList2.vue')
+const CardList3 = () => import(/* webpackChunkName: "CardList3" */ '~/components/CardList/CardList3.vue')
+const CardList4 = () => import(/* webpackChunkName: "CardList4" */ '~/components/CardList/CardList4.vue')
+const CardList5 = () => import(/* webpackChunkName: "CardList5" */ '~/components/CardList/CardList5.vue')
+const CardList6 = () => import(/* webpackChunkName: "CardList6" */ '~/components/CardList/CardList6.vue')
+const CardList7 = () => import(/* webpackChunkName: "CardList7" */ '~/components/CardList/CardList7.vue')
+const CardList8 = () => import(/* webpackChunkName: "CardList8" */ '~/components/CardList/CardList8.vue')
+const CardList9 = () => import(/* webpackChunkName: "CardList9" */ '~/components/CardList/CardList8.vue')
+const CardList10 = () => import(/* webpackChunkName: "CardList10" */ '~/components/CardList/CardList10.vue')
 
 export default {
   name: 'HomePage',
