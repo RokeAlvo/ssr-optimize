@@ -57,6 +57,7 @@ export default {
       console.log(this.$config)
     } catch (e) {
       this.errors = JSON.stringify(e)
+      console.log(this.$config)
     }
   }
 }
