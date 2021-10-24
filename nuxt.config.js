@@ -47,9 +47,9 @@ export default {
     vercelNuxt: process.env.NUXT_ENV_VERCEL_URL,
     vercel: process.env.VERCEL_URL,
     baseUrl: process.env.BASE_URL,
-    // axios: {
-    //   browserBaseURL: process.env.VERCEL_URL || process.env.BASE_URL
-    // }
+    axios: {
+      baseURL: process.env.VERCEL_URL || process.env.BASE_URL
+    }
   },
 
   // privateRuntimeConfig: {
