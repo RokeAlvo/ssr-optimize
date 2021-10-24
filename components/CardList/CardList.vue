@@ -47,7 +47,7 @@ export default {
       errors: ''
     }
   },
-  async fetch() {
+  async mounted() {
     try {
       const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
       this.products = response.body.products
