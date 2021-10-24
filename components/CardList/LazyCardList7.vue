@@ -1,5 +1,5 @@
 <template>
-  <CardList7 :products-group="productsGroup"/>
+  <CardList7/>
 </template>
 
 <script>
@@ -9,11 +9,5 @@ const CardList7 = () =>
 export default {
   name: "LazyCardList7",
   components: {CardList7},
-  props: {
-    productsGroup: {
-      type: Number,
-      required: true
-    },
-  },
 }
 </script>

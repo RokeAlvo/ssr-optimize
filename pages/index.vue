@@ -2,38 +2,39 @@
   <div>
     <img src="/Pdb/10025791b.jpg.webp" alt="main-image" class="w-full main-image">
     <LazyHydrate when-visible>
-      <LazyCardList1 :products-group="2" />
+      <LazyCardList1/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList2 :products-group="2" />
+      <LazyCardList2/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList3 :products-group="2" />
+      <LazyCardList3/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList4 :products-group="2" />
+      <LazyCardList4/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList5 :products-group="2" />
+      <LazyCardList5/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList6 :products-group="2" />
+      <LazyCardList6/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList7 :products-group="2" />
+      <LazyCardList7/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList8 :products-group="2" />
+      <LazyCardList8/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList9 :products-group="2" />
+      <LazyCardList9/>
     </LazyHydrate>
     <LazyHydrate when-visible>
-      <LazyCardList10 :products-group="2" />
+      <LazyCardList10/>
     </LazyHydrate>
   </div>
 </template>
 
+<!--suppress JSUnusedGlobalSymbols -->
 <script>
 import LazyHydrate from 'vue-lazy-hydration';
 import LazyCardList10 from "@/components/CardList/LazyCardList10";
@@ -66,8 +67,8 @@ export default {
 }
 </script>
 <style>
-  .main-image {
-    width: 375px;
-    height: 375px;
-  }
+.main-image {
+  width: 375px;
+  height: 375px;
+}
 </style>

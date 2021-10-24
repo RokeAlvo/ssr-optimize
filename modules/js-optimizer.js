@@ -8,7 +8,7 @@ const scriptRegex = /<script[\w"= ]*src="(.*?)".*?><\/script>/g;
 // essenitials are all with "pages" or ending with "app.js"
 const validScriptRegex = /\/(legacy-)?.*?-(pages.*?|.*app).js/;
 
-module.exports = async function JSOptimizer(moduleOptions) {
+module.exports = function JSOptimizer(moduleOptions) {
   if (!moduleOptions.setOutputFilenames) {
     logger.error(
       'JS optimization works only when you explicitly opt in for overwriting output filenames in nuxt!'
@@ -25,7 +25,7 @@ module.exports = async function JSOptimizer(moduleOptions) {
       `${!isModern ? 'legacy-' : 'modern-'}${!isDev ? '[contenthash]-' : ''}[name].js`
   };
 
-  this.nuxt.hook('render:route', async (url, page, { req, res }) => {
+  this.nuxt.hook('render:route', (url, page, { req, res }) => {
     if (!page.html || (res.statusCode && res.statusCode !== 200) || page.redirected || page.error) {
       if (moduleOptions.debug) {
         logger.info(

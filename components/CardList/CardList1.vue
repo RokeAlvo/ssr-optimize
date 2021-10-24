@@ -20,23 +20,10 @@
 
 <script>
 import CatCard from "~/components/CatCard/CatCard1";
+
 export default {
   name: "CardList1",
   components: {CatCard},
-  props: {
-    productsGroup: {
-      type: Number,
-      required: true
-    },
-    title: {
-      type: String,
-      default: '',
-    },
-    description: {
-      type: String,
-      default: ''
-    }
-  },
   data() {
     return {
       products: [],
@@ -44,7 +31,7 @@ export default {
   },
   async fetch() {
     try {
-      const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
+      const response = await this.$axios.$get(`/api-mocks/products1.json`)
       this.products = response.body.products
     } catch (e) {
       // eslint-disable-next-line no-console
