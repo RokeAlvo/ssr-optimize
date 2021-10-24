@@ -5,6 +5,7 @@
         class="object-center object-cover rounded-full h-36 w-36"
         :src="product.image"
         alt="photo"
+        loading="lazy"
       >
     </div>
     <div class="text-center">

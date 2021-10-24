@@ -30,14 +30,16 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     '@nuxtjs/eslint-module',
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    // https://github.com/vuejs/vue/issues/9847#issuecomment-626154095
     ['~/modules/js-optimizer.js', {setOutputFilenames: true}]
+
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
