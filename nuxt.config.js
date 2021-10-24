@@ -46,6 +46,7 @@ export default {
   publicRuntimeConfig: {
     vercelNuxt: process.env.NUXT_ENV_VERCEL_URL,
     vercel: process.env.VERCEL_URL,
+    baseUrl: process.env.BASE_URL,
     axios: {
       browserBaseURL: process.env.VERCEL_URL || process.env.BASE_URL
     }
@@ -53,7 +54,7 @@ export default {
 
   privateRuntimeConfig: {
     axios: {
-      baseURL: process.env.BASE_URL
+      baseURL: process.env.VERCEL_URL || process.env.BASE_URL
     }
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
