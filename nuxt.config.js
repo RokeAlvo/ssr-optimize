@@ -38,20 +38,11 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
   ],
-  publicRuntimeConfig: {
-    axios: {
-      browserBaseURL: process.env.VERCEL_URL || process.env.BROWSER_BASE_URL
-    }
-  },
-
-  privateRuntimeConfig: {
-    axios: {
-      baseURL: process.env.BASE_URL
-    }
-  },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
-  // axios: {},
+  axios: {
+    baseURL: process.env.VERCEL_URL || process.env.BASE_URL
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
