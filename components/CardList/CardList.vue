@@ -1,6 +1,7 @@
 <template>
   <!-- component -->
   <div class="w-full bg-gray-800">
+    <p v-if="errors">{{errors}}</p>
     <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
       <div class="text-center pb-12">
         <h2 class="text-base font-bold text-indigo-600">
@@ -42,7 +43,8 @@ export default {
   },
   data() {
     return {
-      products: []
+      products: [],
+      errors: ''
     }
   },
   async fetch() {
@@ -50,8 +52,7 @@ export default {
       const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
       this.products = response.body.products
     } catch (e) {
-      // eslint-disable-next-line no-console
-      console.error(e)
+      this.errors = JSON.stringify(e)
     }
   }
 }

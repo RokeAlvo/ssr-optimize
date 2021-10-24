@@ -1,0 +1,4907 @@
+{
+  "success": true,
+  "messages": [],
+  "body": {
+    "promo": {
+      "name": "Акции, скидки и распродажи",
+      "url": "/vse-akcii?reff=menu_main",
+      "imageUrl": "/media/Assets/menu/Stock_2.png",
+      "promoLinks": [
+        {
+          "url": "/obzory?reff=menu_main",
+          "imageUrl": "/media/SmallBanners/m-obzory.png"
+        }
+      ],
+      "showAllLink": {
+        "name": "Посмотреть все категории",
+        "url": "/vse-akcii?reff=menu_main"
+      },
+      "categories": [
+        {
+          "name": "Главные акции",
+          "url": "/vse-akcii?reff=menu_main_main",
+          "imageUrl": "/media/Assets/menu/icon/Promotions.svg",
+          "promoLinks": null,
+          "showAllLink": null,
+          "categories": [
+            {
+              "name": "Распродажа: Чёрная пятница",
+              "url": "/promo/rasprodazha-chernaya-pyatnica-uzhe-startovala-mark190646311?from=under_search",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Мощный кэшбэк до 50%!",
+              "url": "/promo/moshnyi-keshbik-do-50?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\">Персональная распродажа",
+              "url": "/promo/akciya-personalnaya-cena-mark188050124?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Акция «Рассрочка 0% на всё»",
+              "url": "/promo/rassrochka-0-na-vse-3000?from=menu",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Все промокоды",
+              "url": "/promo/vse-promokody?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "<strong>Все акции</strong>",
+              "url": "/vse-akcii?reff=menu_main_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            }
+          ]
+        },
+        {
+          "name": "Распродажи",
+          "url": "/vse-akcii?reff=menu_main_main",
+          "imageUrl": "/media/Assets/menu/icon/sales.svg",
+          "promoLinks": null,
+          "showAllLink": null,
+          "categories": [
+            {
+              "name": "Распродажа техники",
+              "url": "/promo/rasprodazha-tehniki-mark168216311?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Скидки на посуду Tefal",
+              "url": "/promo/skidki-na-posudu-tefal-mark190231775?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            }
+          ]
+        },
+        {
+          "name": "Не пропустите",
+          "url": "/vse-akcii?reff=menu_main_main",
+          "imageUrl": "/media/Assets/menu/icon/dontmiss.svg",
+          "promoLinks": null,
+          "showAllLink": null,
+          "categories": [
+            {
+              "name": "Доставка и установка за наш счёт",
+              "url": "/promo/dostavka-i-ustanovka-krupnoi-tehniki-za-nash-schet-mark190200766?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Скидки на товары Bosch и Siemens",
+              "url": "/promo/skidki-na-tovary-bosch-i-siemens-mark180929012?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Подарки при покупке гаджета Samsung",
+              "url": "/promo/podarki-pri-pokupke-gadzheta-samsung-mark189939925?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Подарки за покупку техники",
+              "url": "/promo/podarki-za-pokupku-tehniki?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "M.Game Core Cup",
+              "url": "/promo/mgame-core-cup?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            }
+          ]
+        },
+        {
+          "name": "Рекомендуем",
+          "url": "/vse-akcii?reff=menu_main_main",
+          "imageUrl": "/media/Assets/menu/icon/recom.svg",
+          "promoLinks": null,
+          "showAllLink": null,
+          "categories": [
+            {
+              "name": "М.видео Premium",
+              "url": "/promo/premium-testpage?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "M.PRO Фото",
+              "url": "/prophoto?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Видеоконсультации онлайн",
+              "url": "/promo/posmotri-tovar-vzhivuu-na-saite-mark168210475?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            }
+          ]
+        },
+        {
+          "name": "Обзоры",
+          "url": "https://www.mvideo.ru/obzory?reff=menu_main",
+          "imageUrl": "/media/Assets/menu/icon/Reviews.svg",
+          "promoLinks": null,
+          "showAllLink": null,
+          "categories": [
+            {
+              "name": "Как правильно выбрать смартфон",
+              "url": "https://www.mvideo.ru/obzor-kak-pravilno-vybrat-smartfon?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Заменит ли стационарный блендер Bosch кухонную машину",
+              "url": "https://www.mvideo.ru/obzor-blendera-bosch-mmb6382m?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Что умеют спортивные часы Suunto 9 Peak",
+              "url": "https://www.mvideo.ru/obzor-sportivnyh-chasov-suunto-9-peak?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Тест-драйв игрового ноутбука ROG Strix G15",
+              "url": "https://www.mvideo.ru/obzor-igrovogo-noutbuka-asus-rog-strix-g15-g513qy?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Раскрываем секреты оболочки<br>EMUI 12 от Huawei",
+              "url": "https://www.mvideo.ru/obzor-obolochki-emui-12v?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Обзор смартфона Nokia X10",
+              "url": "https://www.mvideo.ru/obzor-nokia-x10?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            }
+          ]
+        },
+        {
+          "name": "Подборки",
+          "url": "https://www.mvideo.ru/obzory?reff=menu_main",
+          "imageUrl": "/media/Assets/menu/icon/sets.svg",
+          "promoLinks": null,
+          "showAllLink": null,
+          "categories": [
+            {
+              "name": "Обзор Apple CarPlay и Android Auto",
+              "url": "https://www.mvideo.ru/obzor-apple-carplay-i-android-auto?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "iPhone 13, новые iPad и не только: что показали на презентации Apple",
+              "url": "https://www.mvideo.ru/obzor-prezentatsii-apple?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Сравнение популярных игровых движков",
+              "url": "https://www.mvideo.ru/obzor-populyarnyh-igrovyh-dvizhkov?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Подборка 15 лучших стиральных машин",
+              "url": "https://www.mvideo.ru/obzor-15-luchshih-stiralnyh-mashin?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Топ смартфонов до 10 тысяч",
+              "url": "https://www.mvideo.ru/obzor-top-10-smartfonov-do-10k?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            },
+            {
+              "name": "Топ смартфонов до 20 тысяч",
+              "url": "https://www.mvideo.ru/obzor-top-smartfonov-do-20-tysyach?reff=menu_main",
+              "imageUrl": null,
+              "promoLinks": null,
+              "showAllLink": null,
+              "categories": null
+            }
+          ]
+        }
+      ]
+    },
+    "categories": [
+      {
+        "name": "Смартфоны и гаджеты",
+        "url": "/telefony",
+        "imageUrl": "/media/TopMenu/3010/new/image.jpg",
+        "promoLinks": [
+          {
+            "url": "/promo/simpage?from=main_menu",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/SIM_Akcii.png"
+          },
+          {
+            "url": "/aksessuary-dlya-telefonov-58/sim-karty-9068/f/pickup=da",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/Sims.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/telefony"
+        },
+        "categories": [
+          {
+            "name": "Смартфоны, мобильные телефоны",
+            "url": "/smartfony-i-svyaz-10?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_12_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Смартфоны",
+                "url": "/smartfony-i-svyaz-10/smartfony-205?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "HUAWEI",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/brand=huawei?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Xiaomi",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/brand=xiaomi?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "HONOR",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/brand=honor?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Домашние телефоны",
+                "url": "/domashnie-i-ofisnye-telefony-radiostancii-4367/domashnie-telefony-4367?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кнопочные телефоны",
+                "url": "/smartfony-i-svyaz-10/mobilnye-telefony-95?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Samsung Galaxy Z Fold3 | Flip3",
+                "url": "/promo/smartfony-samsung-galaxy-z-fold-3-flip-3?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Apple",
+            "url": "/apple?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/iphones-150917.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "iPhone",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/category=iphone-914?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> iPhone 13 Pro | 13 Pro Max",
+                "url": "/promo/apple-iphone-13-pro?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> iPhone 13 | 13 mini",
+                "url": "/promo/apple-iphone-13?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "iPad",
+                "url": "/noutbuki-planshety-komputery-8/planshety-195/f/category=planshety-apple-927?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Apple Watch",
+                "url": "/gadzhety-64/apple-watch-2947?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Apple Watch Series 7",
+                "url": "/promo/apple-watch-series-7?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> AirPods 3-го поколения",
+                "url": "/promo/naushniki-apple-airpods-3?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Чехлы для iPhone",
+                "url": "/aksessuary-dlya-telefonov-58/chehly-dlya-telefonov-342/f/category=dlya-iphone-1122?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Samsung",
+            "url": "/promo/samsung-galaxy-eko-sistem?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Samsung-220.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Складные смартфоны Galaxy Z",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/seriya-samsung=fold,z-flip?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Galaxy S",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/seriya-samsung=s-seriya?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Galaxy Note",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/seriya-samsung=note-seriya?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Galaxy A",
+                "url": "/smartfony-i-svyaz-10/smartfony-205/f/seriya-samsung=a-seriya?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Планшеты Samsung",
+                "url": "/noutbuki-planshety-komputery-8/planshety-195/f/brand=samsung?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Смарт-часы Samsung",
+                "url": "/gadzhety-64/smart-chasy-400/f/brand=samsung?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Наушники Samsung",
+                "url": "/naushniki-54/naushniki-3967/f/brand=samsung?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Чехлы для смартфонов Samsung",
+                "url": "/aksessuary-dlya-telefonov-58/chehly-dlya-telefonov-342/f/brand=samsung?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары для смартфонов",
+            "url": "/aksessuary-dlya-telefonov-58?reff=menu_main_category",
+            "imageUrl": "//img.mvideo.ru/catimg/50/akses-tv.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Наушники",
+                "url": "/naushniki-54/naushniki-3967?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Портативное аудио",
+                "url": "/portativnoe-audio-25?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Внешние аккумуляторы",
+                "url": "/aksessuary-dlya-telefonov-58/vneshnie-akkumulyatory-dlya-telefonov-1944?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Зарядные устройства",
+                "url": "/aksessuary-dlya-telefonov-58/zaryadnye-ustroistva-2587?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кабели",
+                "url": "/aksessuary-dlya-telefonov-58/kabeli-dlya-sotovyh-telefonov-344?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Чехлы",
+                "url": "/aksessuary-dlya-telefonov-58/chehly-dlya-telefonov-342?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Стёкла и плёнки",
+                "url": "/aksessuary-dlya-telefonov-58/plenki-i-stekla-dlya-telefonov-2589?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Карты памяти",
+                "url": "/aksessuary-dlya-telefonov-58/karty-pamyati-2590?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Планшеты и электронные книги",
+            "url": "/planshety-i-elektronnye-knigi-4147?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/planshet.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Все планшеты",
+                "url": "/noutbuki-planshety-komputery-8/planshety-195?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Apple iPad",
+                "url": "/promo/apple-ipad?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Apple iPad mini",
+                "url": "/promo/apple-ipad-mini?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Huawei MatePad",
+                "url": "/noutbuki-planshety-komputery-8/planshety-195/f/serii=huawei-matepad?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Galaxy Tab",
+                "url": "/noutbuki-planshety-komputery-8/planshety-195/f/brand=samsung?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Планшеты на Windows",
+                "url": "/noutbuki-planshety-komputery-8/planshety-195/f/category=planshety-na-windows-1207?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для планшетов",
+                "url": "/aksessuary-dlya-planshetov-47?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Электронные книги и аксессуары",
+                "url": "/planshety-i-elektronnye-knigi-4147/elektronnye-knigi-73?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Гаджеты",
+            "url": "/gadzhety-64?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/gadzhety-220x220.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Смарт-часы",
+                "url": "/gadzhety-64/smart-chasy-400?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фитнес-браслеты",
+                "url": "/gadzhety/tovary-dlya-sporta-i-zdorovya-403?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Спортивные часы",
+                "url": "/gadzhety-64/sportivnye-chasy-333?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Детские часы",
+                "url": "/gadzhety-64/chasy-s-gps-trekerom-5547?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Умные колонки и портативная акустика",
+                "url": "/portativnoe-audio-25/portativnaya-akustika-202?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Комплекты для блогеров",
+                "url": "/hobbi-28/tovary-dlya-bloggerov-7710?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Умные устройства",
+                "url": "/gadzhety-64/smart-gadzhety-5607?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Умный дом",
+                "url": "/ustroistva-dlya-umnogo-doma-7672/smart-home-ustroistva-398?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Телевизоры, аудио, Hi-Fi",
+        "url": "/televizory-i-video",
+        "imageUrl": "/media/TopMenu/3010/new/TV.jpg",
+        "promoLinks": [
+          {
+            "url": "/obzor-8k-televizorov?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/TV-8K.png"
+          },
+          {
+            "url": "/promo/televizory-sony-bravia-xr?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2021/August/logoSonyXr/brandinmenu_brandname_S_208x108.png"
+          },
+          {
+            "url": "/promo/televizory-lg-8k-2020?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2021/January/icon/brandinmenu_brandname_S_208x108.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/televizory-i-video"
+        },
+        "categories": [
+          {
+            "name": "Телевизоры",
+            "url": "https://www.mvideo.ru/televizory-i-cifrovoe-tv-1?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_1_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Все телевизоры",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "4K UHD-телевизоры",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/category=4k-uhd-televizory-1682?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "8K -телевизоры",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/category=led-8k-televizory-6947?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Смарт-телевизоры ",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/smart-tv=da?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "QLED-телевизоры",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/qled-televizory=da?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "OLED-телевизоры",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/category=oled-televizory-1987?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Интерьерные телевизоры",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/collection_top=interernye?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Телевизоры LG NanoCell",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/collection_top=lg-nanocell?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "По диагонали",
+            "url": "/televizory-i-cifrovoe-tv-1/televizory-65?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/menu_diag_220x220.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "19\" - 27\"",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=19---27?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "28\" - 32\"",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=28---32?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "39\" - 43\"",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=39---43?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "49\" - 50\"",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=49---50?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "55\" - 60\"",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=55---60?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "65\" - 70\"",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=65---70?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "75\" - 77\"",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=75---77?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "82\" и более",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=82-?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аудио и DJ",
+            "url": "/audiotehnika-i-dj-oborudovanie-9?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_11_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Винил и проигрыватели",
+                "url": "/hi-fi-tehnika-5/proigryvateli-vinilovyh-diskov-5627?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Портативное аудио",
+                "url": "/portativnoe-audio-25?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Музыкальные центры",
+                "url": "/audiotehnika-i-dj-oborudovanie-9/muzykalnye-centry-68?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Беспроводные аудиосистемы",
+                "url": "/portativnoe-audio-25/portativnaya-akustika-202/f/category=besprovodnye-audio-sistemy-3268?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Активные колонки",
+                "url": "/hi-fi-tehnika-5/akustika-hi-fi-192/f/category=aktivnaya-hi-fi-akustika-1428?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Музыкальные системы Midi",
+                "url": "/audiotehnika-i-dj-oborudovanie-9/muzykalnye-centry-68/f/category=muzykalnye-sistemy-midi-449?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Магнитолы",
+                "url": "/audiotehnika-i-dj-oborudovanie-9/magnitoly-69?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Оборудование для DJ",
+                "url": "/audiotehnika-i-dj-oborudovanie-9/dj-oborudovanie-340?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Домашний кинотеатр и Hi-Fi техника",
+            "url": "/videotehnika-20?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cls_373_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Саундбары",
+                "url": "/videotehnika-20/saundbary-2547?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Колонки Hi-Fi и сабвуферы",
+                "url": "/hi-fi-tehnika-5/akustika-hi-fi-192?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Домашние кинотеатры",
+                "url": "/videotehnika-20/domashnie-kinoteatry-212?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "DVD, Blu-Ray и медиаплееры",
+                "url": "/videotehnika-20/dvd-blu-ray-i-mediapleery-317?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ресиверы Hi-Fi",
+                "url": "/hi-fi-tehnika-5/resivery-hi-fi-4047?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Комплекты Hi-Fi для домашнего кинотеатра",
+                "url": "/hi-fi-tehnika-5/komplekty-hi-fi-1425?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Усилители Hi-Fi",
+                "url": "/hi-fi-tehnika-5/usiliteli-hi-fi-3487?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Проекторы и экраны",
+                "url": "/videotehnika-20/proektory-i-ekrany-74?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Цифровое/спутниковое ТВ",
+            "url": "/sputnikovoe-cifrovoe-tv-5487?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cls_191_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Приставки Smart TV и приёмники DVB-T2",
+                "url": "/aksessuary-dlya-televizorov-41/pristavki-smart-tv-i-priemniki-dvb-t2-358?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Приставки Apple TV",
+                "url": "/komputernaya-tehnika-apple-2667/pristavki-apple-tv-2671?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Онлайн-кинотеатры (Smart TV)",
+                "url": "/kody-dlya-filmov-i-knig/cifrovye-kody-dlya-filmov-i-knig-3792/f/category=onlain-kinoteatry-smart-tv-3809?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Антенны телевизионные",
+                "url": "/aksessuary-dlya-televizorov-41/televizionnye-antenny-252?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Комплекты спутникового ТВ",
+                "url": "/sputnikovoe-cifrovoe-tv-5487/komplekty-sputnikovogo-tv-133?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Триколор ТВ",
+                "url": "/sputnikovoe-cifrovoe-tv-5487/komplekty-sputnikovogo-tv-133/f/brand=trikolor?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "НТВ плюс",
+                "url": "/sputnikovoe-cifrovoe-tv-5487/komplekty-sputnikovogo-tv-133/f/brand=ntv-plus?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары",
+            "url": "/aksessuary-dlya-televizorov-41?reff=menu_main_category",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_142_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Наушники",
+                "url": "/naushniki-54/naushniki-3967?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кронштейны для TV",
+                "url": "/aksessuary-dlya-televizorov-41/kronshteiny-i-podvesy-dlya-televizorov-4247?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кабели и переходники",
+                "url": "/aksessuary-dlya-televizorov-41/kabeli-i-perehodniki-2469?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Тумбы под телевизоры",
+                "url": "/aksessuary-dlya-televizorov-41/tumby-i-podstavki-dlya-televizorov-237?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Комплекты модулей",
+                "url": "/aksessuary-dlya-televizorov-41/tumby-i-podstavki-dlya-televizorov-237/f/category=komplekty-modulei-6648,modulnye-komponenty-6769?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Стабилизаторы напряжения",
+                "url": "/aksessuary-dlya-televizorov-41/stabilizatory-napryazheniya-2476?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для аудио",
+                "url": "/audiotehnika-i-dj-oborudovanie-9/aksessuary-dlya-audio-2475?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для Hi-Fi",
+                "url": "/hi-fi-tehnika-5/aksessuary-hi-fi-190?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ноутбуки и компьютеры",
+        "url": "/noutbuki-planshety-i-kompyutery",
+        "imageUrl": "/media/TopMenu/3010/new/Nout_Comp.jpg",
+        "promoLinks": [
+          {
+            "url": "/obzory/pc-noutbuki?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/M_obzori.png"
+          },
+          {
+            "url": "/promo/tovary-logitech?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2021/June/provodnye-i-besprovodnye-igrovye-klaviatury-logitech/logo/High_Resolution_PNG-Logitech_RGB_black_SM.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/noutbuki-planshety-i-kompyutery"
+        },
+        "categories": [
+          {
+            "name": "Ноутбуки",
+            "url": "/noutbuki-planshety-komputery-8?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/220x220_audio_notebook.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Все ноутбуки",
+                "url": "/noutbuki-planshety-komputery-8/noutbuki-118?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровые ноутбуки",
+                "url": "/noutbuki-planshety-komputery-8/noutbuki-118/f/category=igrovye-noutbuki-3607?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ноутбуки-трансформеры",
+                "url": "/noutbuki-planshety-komputery-8/noutbuki-118/f/category=noutbuki-transformery-1224?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ультрабуки",
+                "url": "/noutbuki-planshety-komputery-8/noutbuki-118/f/category=ultrabuki-957?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Компьютеры и мониторы",
+            "url": "/komputernaya-tehnika-4107?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_196_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Мониторы",
+                "url": "/komputernaya-tehnika-4107/monitory-101?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровые мониторы",
+                "url": "/komputernaya-tehnika-4107/monitory-101/f/category=igrovye-monitory-3587?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мультимедийные проекторы",
+                "url": "/videotehnika-20/proektory-i-ekrany-74/f/category=multimediinye-proektory-587?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Системные блоки",
+                "url": "/komputernaya-tehnika-4107/sistemnye-bloki-80?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровые системные блоки",
+                "url": "/komputernaya-tehnika-4107/sistemnye-bloki-80/f/category=sistemnye-bloki-igrovye-3188?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Моноблоки",
+                "url": "/komputernaya-tehnika-4107/monobloki-181/f/category=monobloki-603?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Компьютерные комплектующие",
+            "url": "/komputernye-komplektuushhie-5427?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/220x220-komplektuyushie_menu.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Жёсткие диски (HDD и SSD)",
+                "url": "/komputernye-komplektuushhie-5427/zhestkie-diski-hdd-i-ssd-5436?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Видеокарты",
+                "url": "/komputernye-komplektuushhie-5427/videokarty-5429?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Процессоры",
+                "url": "/komputernye-komplektuushhie-5427/processory-5431?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Оперативная память",
+                "url": "/komputernye-komplektuushhie-5427/operativnaya-pamyat-5433?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Материнские платы",
+                "url": "/komputernye-komplektuushhie-5427/materinskie-platy-5432?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Корпуса",
+                "url": "/komputernye-komplektuushhie-5427/korpusa-5434?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Блоки питания",
+                "url": "/komputernye-komplektuushhie-5427/bloki-pitaniya-5435?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Прочие комплектующие",
+                "url": "/komputernye-komplektuushhie-5427?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Компьютерная техника Apple",
+            "url": "/komputernaya-tehnika-apple-2667?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cls_248_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> MacBook Pro",
+                "url": "/promo/noutbuki-apple-macbook-pro-14-i-16?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ноутбуки Apple MacBook",
+                "url": "/noutbuki-planshety-komputery-8/noutbuki-118/f/category=noutbuki-apple-macbook-709?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Системные блоки Apple Mac",
+                "url": "/komputernaya-tehnika-4107/sistemnye-bloki-80/f/category=sistemnye-bloki-apple-mac-443?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Моноблоки Apple iMac",
+                "url": "/komputernaya-tehnika-4107/monobloki-181/f/category=apple-imac-571?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мыши и клавиатуры Apple",
+                "url": "/komputernye-aksessuary-24/myshi-i-klaviatury-apple-2607?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сумки для Apple MacBook",
+                "url": "/komputernye-aksessuary-24/sumki-dlya-noutbukov-216/f/category=keisy-k-macbook-1083?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Адаптеры-переходники Apple",
+                "url": "/aksessuary-dlya-planshetov-47/adaptery-dlya-ustroistv-282/f/category=adaptery-perehodniki-apple-1088?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сетевые адаптеры для MacBook",
+                "url": "/komputernye-aksessuary-24/setevye-adaptery-dlya-noutbukov-2591/f/category=setevoi-adapter-dlya-macbook-1621?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Периферийные устройства",
+            "url": "/periferiinye-ustroistva-23?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_113_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "МФУ",
+                "url": "/periferiinye-ustroistva-23/mfu-146?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Принтеры",
+                "url": "/periferiinye-ustroistva-23/printery-81?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Картриджи",
+                "url": "/periferiinye-ustroistva-23/kartridzhi-215?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сканеры",
+                "url": "/periferiinye-ustroistva-23/skanery-82?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Компактные фотопринтеры",
+                "url": "/cifrovye-fotoramki-i-fotoprintery-2468/fotoprintery-kompaktnye-2478?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "3D-ручки и 3D-принтеры",
+                "url": "/periferiinye-ustroistva-23/printery-81/f/category=3d-printery-1252,3d-ruchki-6087?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Бумага",
+                "url": "/periferiinye-ustroistva-23/bumaga-2487?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ламинаторы",
+                "url": "/periferiinye-ustroistva-23/laminatory-3447?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары",
+            "url": "/komputernye-aksessuary-24?reff=menu_main_category",
+            "imageUrl": "//img.mvideo.ru/catimg/50/nout-aksess.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Игровые аксессуары",
+                "url": "/promo/aksessuary-dlja-igr?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Клавиатуры и мыши",
+                "url": "/klaviatury-i-myshi?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Роутеры и сетевое оборудование",
+                "url": "/komputernye-aksessuary-24/routery-i-setevoe-oborudovanie-186?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Внешние жёсткие диски",
+                "url": "https://www.mvideo.ru/komputernye-aksessuary/vneshnie-zhestkie-diski-i-ssd-184?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Флеш-накопители",
+                "url": "/komputernye-aksessuary-24/flesh-nakopiteli-185?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сумки для ноутбуков",
+                "url": "/komputernye-aksessuary-24/sumki-dlya-noutbukov-216?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Компьютерная мебель",
+                "url": "/komputernye-aksessuary-24/komputernaya-mebel-1781?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Антивирусы и программное обеспечение",
+                "url": "/promo/programmnoe-obespechenie-mark52967189?categoryId=19?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Техника для кухни",
+        "url": "/tehnika-dlya-kuhni",
+        "imageUrl": "/media/TopMenu/3010/KBT.png",
+        "promoLinks": [
+          {
+            "url": "/miele?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/Miele.png"
+          },
+          {
+            "url": "/tag/technika-dlya-kuxnhi-100024?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/M_obzori.png"
+          },
+          {
+            "url": "/kitchenaid?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/Kitchen.png"
+          },
+          {
+            "url": "/products/videokursy-kulinarnaya-shkola-kursy-ulii-vysockoi-sredizemnomorskaya-kuhnya-6016740?reff=menu_main",
+            "imageUrl": "/media/Assets/img/m-1.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/tehnika-dlya-kuhni"
+        },
+        "categories": [
+          {
+            "name": "Приготовление пищи",
+            "url": "https://www.mvideo.ru/melkaya-kuhonnaya-tehnika-3?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/eat.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Микроволновые печи",
+                "url": "/melkaya-kuhonnaya-tehnika-3/mikrovolnovye-pechi-94?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Миксеры и блендеры",
+                "url": "/melkaya-kuhonnaya-tehnika-3/miksery-i-blendery-98?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мясорубки",
+                "url": "/melkaya-kuhonnaya-tehnika-3/myasorubki-104?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мультиварки",
+                "url": "/melkaya-kuhonnaya-tehnika-3/multivarki-180?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Электрогрили",
+                "url": "/melkaya-kuhonnaya-tehnika-3/grili-198/f/category=elektrogrili-525?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кухонные машины и комбайны",
+                "url": "/melkaya-kuhonnaya-tehnika-3/kuhonnye-kombainy-156?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мини-печи",
+                "url": "/melkaya-kuhonnaya-tehnika-3/mini-pechi-149?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Хлебопечки",
+                "url": "/melkaya-kuhonnaya-tehnika-3/hlebopechki-150?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Мелкая кухонная техника",
+            "url": "/melkaya-kuhonnaya-tehnika-3?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/tea.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Электрочайники",
+                "url": "/melkaya-kuhonnaya-tehnika-3/elektrochainiki-96?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Тостеры и ростеры",
+                "url": "/melkaya-kuhonnaya-tehnika-3/tostery-i-rostery-99?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Соковыжималки",
+                "url": "/melkaya-kuhonnaya-tehnika-3/sokovyzhimalki-103?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мультипекари",
+                "url": "/melkaya-kuhonnaya-tehnika-3/multipekari-i-elektrovafelnicy-111/f/category=multipekari-5767?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сушки для фруктов",
+                "url": "/melkaya-kuhonnaya-tehnika-3/sushki-dlya-fruktov-7867/f/category=sushka-dlya-fruktov-7868/?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кухонные весы",
+                "url": "/melkaya-kuhonnaya-tehnika-3/kuhonnye-vesy-102?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Электровафельницы",
+                "url": "/melkaya-kuhonnaya-tehnika-3/multipekari-i-elektrovafelnicy-111/f/category=elektrovafelnicy-725?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Вакуумные упаковщики и су-вид",
+                "url": "/melkaya-kuhonnaya-tehnika-3/vakuumnye-upakovshhiki-i-su-vid-2027?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Другие кухонные приборы",
+                "url": "/melkaya-kuhonnaya-tehnika-3/prochie-kuhonnye-prinadlezhnosti-93?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Крупная кухонная техника",
+            "url": "/krupnaya-kuhonnaya-tehnika-34?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_135_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Холодильники и морозильные камеры",
+                "url": "/holodilniki-i-morozilniki-2687/holodilniki-i-morozilnye-kamery-159?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Холодильники Side-by-Side и многодверные",
+                "url": "/holodilniki-i-morozilniki-2687/holodilniki-i-morozilnye-kamery-159/f/category=holodilniki-side-by-side-i-mnogodvernye-668?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Морозильники",
+                "url": "/holodilniki-i-morozilniki-2687/holodilniki-i-morozilnye-kamery-159/f/category=morozilnye-kamery-717?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Винные шкафы",
+                "url": "/holodilniki-i-morozilniki-2687/holodilniki-i-morozilnye-kamery-159/f/category=vinnye-shkafy-715?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Плиты газовые",
+                "url": "/krupnaya-kuhonnaya-tehnika-34/plity-gazovye-i-elektricheskie-110/f/category=gazovye-plity-671?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Плиты электрические",
+                "url": "/krupnaya-kuhonnaya-tehnika-34/plity-gazovye-i-elektricheskie-110/f/category=elektricheskie-plity-673?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Посудомоечные машины",
+                "url": "/krupnaya-kuhonnaya-tehnika-34/posudomoechnye-mashiny-160?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кулеры для воды",
+                "url": "/krupnaya-kuhonnaya-tehnika-34/kulery-dlya-vody-4947?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Встраиваемая техника",
+            "url": "/vstraivaemaya-tehnika-4?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_4_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Духовые шкафы",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-duhovye-shkafy-4109?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Панели газовые и электрические",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-paneli-4108?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Вытяжки",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-vytyazhki-2338?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Встраиваемые посудомоечные машины",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-posudomoechnye-mashiny-2333?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Холодильники и морозильники встраиваемые",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-holodilniki-100?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Встраиваемые микроволновые печи",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-mikrovolnovye-pechi-117?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Стиральные машины встраиваемые",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-stiralnye-mashiny-201?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Прочая встраиваемая техника",
+                "url": "/vstraivaemaya-tehnika-4?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Посуда и аксессуары",
+            "url": "/posuda-53?reff=menu_main_category",
+            "imageUrl": "//img.mvideo.ru/catimg/50/posud.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Наборы посуды",
+                "url": "/posuda-53/nabory-posudy-305?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сковороды",
+                "url": "/posuda-53/skovorody-303?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кастрюли",
+                "url": "/posuda-53/kastruli-306?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кухонные принадлежности",
+                "url": "/posuda-53/kuhonnye-prinadlezhnosti-311?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ножи и столовые приборы",
+                "url": "/posuda-53/kuhonnye-nozhi-i-stolovye-nabory-395?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для посудомоечных машин",
+                "url": "/aksessuary-dlya-kuhonnoi-tehniki-51/aksessuary-dlya-posudomoechnyh-mashin-300?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для кухонных плит",
+                "url": "/aksessuary-dlya-kuhonnoi-tehniki-51/aksessuary-dlya-kuhonnyh-plit-301?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Прочие кухонные аксессуары",
+                "url": "/aksessuary-dlya-kuhonnoi-tehniki-51?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Приготовление кофе",
+            "url": "/prigotovlenie-kofe-29?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_120_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Автоматические кофемашины",
+                "url": "/prigotovlenie-kofe-29/kofemashiny-155/f/category=avtomaticheskie-kofemashiny-569?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кофемашины капсульного типа",
+                "url": "/prigotovlenie-kofe-29/kofemashiny-155/f/category=kapsulnye-kofemashiny-dolce-gusto-3468,kapsulnye-kofemashiny-nespresso-3467?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кофеварки",
+                "url": "/prigotovlenie-kofe-29/kofevarki-157?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кофеварки капсульного типа",
+                "url": "/prigotovlenie-kofe-29/kofevarki-kapsulnye-330?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кофемолки",
+                "url": "/prigotovlenie-kofe-29/kofemolki-145?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Капучинаторы",
+                "url": "/prigotovlenie-kofe-29/kapuchinatory-7527?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кофе",
+                "url": "/prigotovlenie-kofe-29/kofe-336?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для кофемашин",
+                "url": "/prigotovlenie-kofe-29/aksessuary-dlya-kofemashin-197?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Техника для дома",
+        "url": "/bytovaya-tehnika-dlya-doma",
+        "imageUrl": "/media/TopMenu/3010/MBT.png",
+        "promoLinks": [
+          {
+            "url": "/promo/technika-dlya-doma-dyson?reff=menu_main",
+            "imageUrl": "/media/SmallBanners/dyson.gif"
+          },
+          {
+            "url": "/miele?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/Miele.png"
+          },
+          {
+            "url": "/promo/tehnika-whirlpool",
+            "imageUrl": "/media/SmallBanners/Whirlpool_navigation.png"
+          },
+          {
+            "url": "/promo/tovary-xiaomi?reff=menu_main",
+            "imageUrl": "/media/Assets/img/menu/kbt/116x52.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/bytovaya-tehnika-dlya-doma"
+        },
+        "categories": [
+          {
+            "name": "Климатическая техника",
+            "url": "/klimaticheskaya-tehnika-11?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/klimat_zima.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Кондиционеры",
+                "url": "/klimaticheskaya-tehnika-11/kondicionery-106?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Вентиляторы",
+                "url": "/klimaticheskaya-tehnika-11/ventilyatory-107?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Водонагреватели",
+                "url": "/klimaticheskaya-tehnika-11/vodonagrevateli-109?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Увлажнители воздуха",
+                "url": "/klimaticheskaya-tehnika-11/uvlazhniteli-i-ochistiteli-vozduha-124/f/category=uvlazhniteli-vozduha-517?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Очистители воздуха",
+                "url": "/klimaticheskaya-tehnika-11/uvlazhniteli-i-ochistiteli-vozduha-124/f/category=klimaticheskie-kompleksy-765,pritochno-ochistitelnyi-kompleks-8427?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Конвекторы",
+                "url": "/klimaticheskaya-tehnika-11/obogrevatelnye-pribory-125/f/category=konvektory-535?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Радиаторы",
+                "url": "/klimaticheskaya-tehnika-11/obogrevatelnye-pribory-125/f/category=radiatory-536?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Тепловентиляторы",
+                "url": "/klimaticheskaya-tehnika-11/obogrevatelnye-pribory-125/f/category=teploventilyatory-534?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Пылесосы",
+            "url": "/pylesosy-i-aksessuary-2428?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_184_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Все пылесосы",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Пылесосы с контейнером для пыли",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438/f/category=pylesosy-s-konteinerom-dlya-pyli-2455?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Пылесосы вертикальные handstick",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438/f/category=pylesosy-vertikalnye-3088?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Роботы-пылесосы",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438/f/category=roboty-pylesosy-2457?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Моющие пылесосы",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438/f/category=moushhie-pylesosy-2456?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Пылесосы с пылесборником",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438/f/category=pylesosy-s-pylesbornikom-2454?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Стеклоочистители",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438/f/category=stekloochistiteli-2531,robot-stekloochistitel-1245?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Пароочистители",
+                "url": "/pylesosy-i-aksessuary-2428/paroochistiteli-2445?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Стиральные и сушильные машины",
+            "url": "/stiralnye-i-sushilnye-mashiny-2427?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_183_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Стиральные машины",
+                "url": "/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Узкие стиральные машины",
+                "url": "/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89/f/category=uzkie-stiralnye-mashiny-2446?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Стиральные машины с сушкой",
+                "url": "/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89/f/category=stiralnye-mashiny-s-sushkoi-2449?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сушильные машины",
+                "url": "/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89/f/category=sushilnye-mashiny-2453?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Стиральные машины встраиваемые",
+                "url": "/vstraivaemaya-tehnika-4/vstraivaemye-stiralnye-mashiny-201?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Cтиральные машины премиум",
+                "url": "/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89/f/collection_top=premium?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Компактные стиральные машины",
+                "url": "/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89/f/category=kompaktnye-stiralnye-mashiny-2450,stiralnye-mashiny-aktivatornogo-tipa-2451?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для стиральных машин",
+                "url": "/aksessuary-dlya-doma-50/aksessuary-dlya-stiralnyh-mashin-382?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Товары для ухода за одеждой",
+            "url": "/tovary-dlya-uhoda-za-odezhdoi-2?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_2_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Утюги",
+                "url": "/tovary-dlya-uhoda-za-odezhdoi-2/utugi-92/f/category=utugi-469?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Парогенераторы",
+                "url": "/tovary-dlya-uhoda-za-odezhdoi-2/utugi-92/f/category=parogeneratory-736?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Отпариватели",
+                "url": "/tovary-dlya-uhoda-za-odezhdoi-2/utugi-92/f/category=ruchnye-otparivateli-1196,vertikalnye-otparivateli-3889?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Швейные машины",
+                "url": "/tovary-dlya-uhoda-za-odezhdoi-2/shveinye-mashiny-134?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Гладильные доски",
+                "url": "/tovary-dlya-uhoda-za-odezhdoi-2/gladilnye-doski-292/f/category=gladilnye-doski-napolnye-1645?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Паровой шкаф для одежды",
+                "url": "/stiralnye-i-sushilnye-mashiny-2427/stiralnye-mashiny-89/f/category=parovoi-shkaf-po-uhodu-za-odezhdoi-4387?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для утюгов",
+                "url": "/aksessuary-dlya-doma-50/aksessuary-dlya-utugov-383?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сушилки для белья",
+                "url": "/tovary-dlya-uhoda-za-odezhdoi-2/sushilki-dlya-belya-389?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Товары для дома и сада",
+            "url": "/sadovaya-tehnika-i-oborudovanie-8027?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cls_570_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Электрические  инструменты",
+                "url": "/elektroinstrumenty-7950?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Умный дом",
+                "url": "/ustroistva-dlya-umnogo-doma-7672/smart-home-ustroistva-398/?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "IP-видеокамеры ",
+                "url": "/ustroistva-dlya-umnogo-doma-7672/smart-home-ustroistva-398/f/category=ip-videokamery-1226?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Датчики безопасности",
+                "url": "/ustroistva-dlya-umnogo-doma-7672/smart-home-ustroistva-398/f/category=smart-home-ustroistva-1340?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Охранные системы",
+                "url": "/ustroistva-dlya-umnogo-doma-7672/smart-home-ustroistva-398/f/category=ohrannye-sistemy-8327?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Комплекты решений",
+                "url": "/ustroistva-dlya-umnogo-doma-7672/smart-home-ustroistva-398/f/category=umnye-meteostancii-4909?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Умный свет",
+                "url": "/ustroistva-dlya-umnogo-doma-7672/smart-home-ustroistva-398/f/category=umnye-lampy-4908?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Садовая техника",
+                "url": "/sadovaya-tehnika-i-oborudovanie-8027?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары для дома",
+            "url": "/aksessuary-dlya-doma-50?reff=menu_main_category",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_151_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Освещение и LED-лампы",
+                "url": "/osveshhenie-9375?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Батарейки и аккумуляторы",
+                "url": "/aksessuary-dlya-doma-50/batareiki-i-akkumulyatory-296?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сетевые фильтры и удлинители",
+                "url": "/aksessuary-dlya-doma-50/setevye-filtry-i-udliniteli-297?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Метеостанции и термометры",
+                "url": "/klimaticheskaya-tehnika-11/meteostancii-i-termometry-161?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для пылесосов",
+                "url": "/aksessuary-dlya-doma-50/aksessuary-dlya-pylesosov-381?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для климатической техники",
+                "url": "/aksessuary-dlya-doma-50/aksessuary-dlya-klimaticheskoi-tehniki-206?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Игры и софт, развлечения",
+        "url": "/igry-i-razvlecheniya",
+        "imageUrl": "/media/TopMenu/3010/new/PS5.jpg",
+        "promoLinks": [
+          {
+            "url": "/promo/predzakazy-v-m-video-tolko-hity-mark129324083?reff=menu_main",
+            "imageUrl": "/media/SmallBanners/preorders-75х50-2.gif"
+          },
+          {
+            "url": "/promo/suvenirnaya-produkcia-dlya-geimerov?reff=menu_main",
+            "imageUrl": "/media/Assets/menu/souvenir_logo.png"
+          },
+          {
+            "url": "/pc-igry-i-soft-19/socialnye-seti-8491",
+            "imageUrl": "/media/SmallBanners/VK%2075%D1%8550.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/igry-i-razvlecheniya"
+        },
+        "categories": [
+          {
+            "name": "PlayStation",
+            "url": "/playstation-4327?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/playstation_220x220.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> FAR CRY 6",
+                "url": "/promo/igra-far-cry-6?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Консоли PlayStation 5",
+                "url": "/promo/sony-ps5?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Игры для PlayStation 5",
+                "url": "/playstation-4327/ps5-igry-22780?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары PlayStation 5",
+                "url": "/playstation-4327/ps5-aksessuary-4336?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игры для PlayStation 4",
+                "url": "/playstation-4327/ps4-igry-4331/f/category=igry-dlya-playstation-4-ps4-4343?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары PlayStation 4",
+                "url": "/playstation-4327/ps4-aksessuary-4334?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Цифровые коды PlayStation",
+                "url": "/playstation-4327/ps4-igry-4331/f/category=igrovaya-valuta-ps4-3798,podpiska-playstation-plus-3799,ps-store-3800,dopolneniya-dlya-igr-ps4-4093?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Подписка PlayStation Plus",
+                "url": "/promo/podpiska-playstation-plus?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Xbox",
+            "url": "/xbox-4330",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Xbox-220x220.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Консоли Xbox Series X|S",
+                "url": "/promo/xbox-series-x?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары Xbox Series X|S",
+                "url": "/xbox-4330/xbox-series-x---s---aksessuary-377?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игры для Xbox",
+                "url": "/xbox-4330/xbox-igry-4338?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Подписки Xbox",
+                "url": "/xbox-4330/xbox-igry-4338/f/category=podpiska-xbox-live---game-pass-3804?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Цифровые версии игр Xbox",
+                "url": "https://www.mvideo.ru/xbox-4330/xbox-igry-4338/f/category=cifrovaya-versiya-igry-xbox-3801,dopolneniya-dlya-igr-xbox-4094?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Консоли Xbox One ",
+                "url": "/xbox-4330/xbox-one-konsoli-4339?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары Xbox One",
+                "url": "/xbox-4330/xbox-one-aksessuary-4340?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Nintendo",
+            "url": "/nintendo-4927?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Nintendo_220x220_3.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Metroid Dread",
+                "url": "/products/igra-nintendo-metroid-dread-40076264?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Консоли Nintendo",
+                "url": "/nintendo-4927/nintendo-konsoli-4928?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары Nintendo",
+                "url": "/nintendo-4927/nintendo-switch-aksessuary-4930?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игры для Nintendo",
+                "url": "/nintendo-4927/nintendo-igry-4929?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Дополнения для игр Nintendo",
+                "url": "/nintendo-4927/nintendo-igry-4929/f/category=dopolneniya-dlya-igr-nintendo-8408?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Подписка Nintendo",
+                "url": "/nintendo-4927/nintendo-igry-4929/f/category=podpiska-nintendo-8409?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Amiibo",
+                "url": "/hobbi-28/figurki-personazhei-5027/f/brand=amiibo,nintendo?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "LEGO Mario",
+                "url": "/nintendo-4927/nintendo-igry-4929/f/brand=lego?showCount=72?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "PC",
+            "url": "/pc-igry-i-soft-19?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/PC_220x220.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Игровые ноутбуки",
+                "url": "/noutbuki-planshety-komputery-8/noutbuki-118/f/category=igrovye-noutbuki-3607?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровые системные блоки ",
+                "url": "/komputernaya-tehnika-4107/sistemnye-bloki-80/f/category=sistemnye-bloki-igrovye-3188?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровые аксессуары для PC ",
+                "url": "/promo/aksessuary-dlja-igr?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игры для PC",
+                "url": "/pc-igry-i-soft-19/pc-igry-91?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Подписки для игр PC",
+                "url": "/pc-igry-i-soft-19/pc---igry-91/f/category=podpiski-dlya-igr-pc-22748?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Программное обеспечение",
+                "url": "/pc-igry-i-soft-19?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Очки VR",
+                "url": "/gadzhety-64/ochki-virtualnoi-realnosti-2207/f/category=ochki-virtualnoi-realnosti-3387/brand=acer,hp,htc,lenovo?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровая валюта ",
+                "url": "/pc-igry-i-soft-19/pc-igry-91/f/category=onlain-igry-pc-4090,igrovaya-valuta-pc-3806?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Хобби",
+            "url": "/hobbi-28?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/kvadr.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "<img src=\"//img.mvideo.ru/media/Assets/img/new.svg\"> Видеокурсы",
+                "url": "/pc-igry-i-soft-19/videokursy-24281?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Цифровые коды",
+                "url": "/promo/tzhifrovye-kody-dlya-igr?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Электронные книги",
+                "url": "/planshety-i-elektronnye-knigi-4147/elektronnye-knigi-73?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Радиоуправляемые модели",
+                "url": "/radioupravlyaemye-ustroistva-56?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Гироскутеры и электротранспорт",
+                "url": "/elektrotransport-4507?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Детский электротранспорт",
+                "url": "/elektrotransport-4507/detskii-elektrotransport-22935?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Настольные игры",
+                "url": "/hobbi-28/nastolnye-igry-8287?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Музыкальные инструменты",
+                "url": "/muzykalnye-instrumenty-55?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "M.Game",
+            "url": "/mgame?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/50x50_mgame.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "M.Stream",
+                "url": "/promo/stream?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Акции",
+                "url": "/promo/bud-v-igre-mark178009426?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Новинки",
+                "url": "/promo/igrovye-novinki-v-m-video-mark117410163?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Предзаказы",
+                "url": "/promo/predzakazy-v-m-video-tolko-hity-mark129324083?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "ТОП продаж",
+                "url": "/promo/top-igr-v-m-video-mark117410166?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сувениры M.GAME",
+                "url": "/promo/suvenirnaya-produkcia-dlya-geimerov?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ретро консоли",
+                "url": "/portativnye-konsoli-4329/portativnaya-konsol-4027/f/category=portativnye-igrovye-konsoli-5148?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Красота и здоровье",
+        "url": "/krasota-i-zdorove",
+        "imageUrl": "/media/TopMenu/3010/new/beauty.jpg",
+        "promoLinks": [],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/krasota-i-zdorove"
+        },
+        "categories": [
+          {
+            "name": "Укладка волос",
+            "url": "/tovary-dlya-ukladki-volos-4887?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_204_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Электрощипцы и плойки",
+                "url": "/tovary-dlya-ukladki-volos-4887/elektroshhipcy-4892/f/category=elektroshhipcy-i-ploiki-472?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Выпрямители",
+                "url": "/tovary-dlya-ukladki-volos-4887/vypryamiteli-volos-4895?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мультистайлеры",
+                "url": "/tovary-dlya-ukladki-volos-4887/elektroshhipcy-4892/f/category=multistailery-4967?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Электробигуди",
+                "url": "/tovary-dlya-ukladki-volos-4887/elektrobigudi-4893?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фены и фены-щётки",
+                "url": "/tovary-dlya-ukladki-volos-4887/feny-i-fen-shhetki-4889?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Термощётки",
+                "url": "/tovary-dlya-ukladki-volos-4887/termoshhetki-4894?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Средства для укладки",
+                "url": "/tovary-dlya-ukladki-volos-4887/sredstva-dlya-ukladki-volos-4896?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Бритьё и стрижка",
+            "url": "/tovary-dlya-britya-i-strizhki-5927?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_208_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Электробритвы",
+                "url": "/tovary-dlya-britya-i-strizhki-5927/elektrobritvy-137/f/category=elektricheskie-britvy-473?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Машинки для стрижки",
+                "url": "/tovary-dlya-britya-i-strizhki-5927/mashinki-dlya-strizhki-volos-143?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Триммеры",
+                "url": "/tovary-dlya-britya-i-strizhki-5927/trimmery-142?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "OneBlade Pro",
+                "url": "/tovary-dlya-britya-i-strizhki-5927/trimmery-142/f/collection_top=onebladepro?from=menu",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для электробритв",
+                "url": "/tovary-dlya-britya-i-strizhki-5927/elektrobritvy-137/f/category=aksessuary-dlya-elektrobritv-1160,setki-i-rezhushhie-bloki-dlya-elektrobritv-632?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Товары для здоровья",
+            "url": "/tovary-dlya-zdorovya-35?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_136_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Зубные щётки",
+                "url": "/tovary-dlya-zdorovya-35/zubnye-shhetki-114?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ирригаторы и зубные центры",
+                "url": "/tovary-dlya-zdorovya-35/zubnye-shhetki-114/f/category=irrigatory-1206?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Весы",
+                "url": "/tovary-dlya-zdorovya-35/vesy-140?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Массажёры",
+                "url": "/tovary-dlya-zdorovya-35/massazhery-226?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Массажные ванночки для ног",
+                "url": "/tovary-dlya-zdorovya-35/massazhery-226/f/category=massazhnye-vannochki-dlya-nog-797?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ингаляторы",
+                "url": "/tovary-dlya-zdorovya-35/ingalyatory-5567",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Тонометры ",
+                "url": "/tovary-dlya-zdorovya-35/tonometry-5587?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Устройства для дезинфекции",
+                "url": "/tovary-dlya-zdorovya-35/ustroistva-dlya-dezinfekcii-9567?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Товары для красоты",
+            "url": "/tovary-dlya-krasoty-14?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/krasota.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Эпиляторы",
+                "url": "/tovary-dlya-krasoty-14/epilyatory-i-aksessuary-113?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Для ухода за лицом",
+                "url": "/tovary-dlya-krasoty-14/kosmeticheskie-pribory-138?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Для ухода за ногами",
+                "url": "/tovary-dlya-krasoty-14/manikurnye-nabory-i-aksessuary-179/f/category=pribory-dlya-uhoda-za-nogami-620?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Маникюрные наборы",
+                "url": "/tovary-dlya-krasoty-14/manikurnye-nabory-i-aksessuary-179/f/category=manikurnye-nabory-795?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Зеркала косметические",
+                "url": "/tovary-dlya-krasoty-14/kosmeticheskie-pribory-138/f/category=zerkala-kosmeticheskie-794?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Товары для фитнеса",
+            "url": "/tovary-dlya-sporta-8410?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cls_575_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Смарт-часы",
+                "url": "/gadzhety-64/smart-chasy-400?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фитнес-браслеты",
+                "url": "/gadzhety-64/tovary-dlya-sporta-i-zdorovya-403?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Спортивные часы",
+                "url": "/gadzhety-64/sportivnye-chasy-333?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "MP3-плееры",
+                "url": "/portativnoe-audio-25/mp3-pleery-72?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Умные весы",
+                "url": "/tovary-dlya-zdorovya-35/vesy-140/f/category=umnye-vesy-4911?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Гироскутеры",
+                "url": "/elektrotransport-4507/giroskutery-3627?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Спортивные наушники",
+                "url": "/naushniki-54/naushniki-3967/f/category=sportivnye-naushniki-2789?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Электрические велосипеды ",
+                "url": "/elektrotransport-4507/elektrovelosipedy-6508?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Товары для детей",
+            "url": "/tovary-dlya-uhoda-za-detmi-36?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_137_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Видеоняни",
+                "url": "/tovary-dlya-uhoda-za-detmi-36/videonyani-228?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Зубные щетки",
+                "url": "/tovary-dlya-zdorovya-35/zubnye-shhetki-114/f/collection_top=detskie?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Увлажнители воздуха",
+                "url": "/klimaticheskaya-tehnika-11/uvlazhniteli-i-ochistiteli-vozduha-124/f/brand=crane?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ингаляторы",
+                "url": "/tovary-dlya-zdorovya-35/ingalyatory-5567?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Детские светильники",
+                "url": "/osveshhenie-9375/svetilniki-nastolnye-i-napolnye-9376/f/dlya-detskoi-komnaty=da?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Пароварки-блендеры",
+                "url": "/tovary-dlya-uhoda-za-detmi-36/parovarki-blendery-235?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Товары для кормления",
+                "url": "/tovary-dlya-uhoda-za-detmi-36/tovary-dlya-kormleniya-230?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Детский проектор",
+                "url": "/videotehnika-20/proektory-i-ekrany-74/f/category=multimediinyi-mini-kinoteatr-6067?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Фото и видео",
+        "url": "/fotoapparaty-i-videotehnika",
+        "imageUrl": "/media/TopMenu/3010/Photo.png",
+        "promoLinks": [
+          {
+            "url": "/obzory/photo-video-i-auto?reff=menu_main",
+            "imageUrl": "/media/SmallBanners/m-obzory.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/fotoapparaty-i-videotehnika"
+        },
+        "categories": [
+          {
+            "name": "Экшн-камеры",
+            "url": "/videokamery-i-ekshn-kamery-2287?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cls_608_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "GoPro экшн-камеры",
+                "url": "/videokamery-i-ekshn-kamery-2287/ekshn-kamery-2288/f/brand=gopro?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Sony экшн-камеры",
+                "url": "/videokamery-i-ekshn-kamery-2287/ekshn-kamery-2288/f/brand=sony?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Прочие экшн-камеры",
+                "url": "/videokamery-i-ekshn-kamery-2287/ekshn-kamery-2288?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Квадрокоптеры и аксессуары к ним",
+                "url": "/radioupravlyaemye-ustroistva-56/kvadrokoptery-2289?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Моноподы для экшн-камер",
+                "url": "/videokamery-i-ekshn-kamery-2287/aksessuary-dlya-ekshn-kamer-355/f/tip-tovara=monopody?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Оригинальные аксессуары GoPro",
+                "url": "/videokamery-i-ekshn-kamery-2287/aksessuary-dlya-ekshn-kamer-355/f/brand=gopro?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Оригинальные аксессуары Sony",
+                "url": "/videokamery-i-ekshn-kamery-2287/aksessuary-dlya-ekshn-kamer-355/f/brand=sony?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Прочие аксессуары для экшн-камер",
+                "url": "/videokamery-i-ekshn-kamery-2287/aksessuary-dlya-ekshn-kamer-355?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Видеокамеры",
+            "url": "/videokamery-i-ekshn-kamery-2287/videokamery-hd-2290?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cat_Vcam_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Цифровые видеокамеры Flash HD",
+                "url": "/videokamery-i-ekshn-kamery-2287/videokamery-hd-2290?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Цифровые видеокамеры 4К",
+                "url": "/videokamery-i-ekshn-kamery-2287/videokamery-hd-2290/f/category=videokamera-4k-4808?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Цифровые видеокамеры Full HD",
+                "url": "/videokamery-i-ekshn-kamery-2287/videokamery-hd-2290/f/category=videokamera-full-hd-2292?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Видеокамеры для блогеров",
+                "url": "/hobbi-28/tovary-dlya-blogerov-7710/f/category=videokamery-dlya-blogerov-23777?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Моноподы для видеокамер",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/monopody-dlya-fotoapparatov-i-videokamer-3651/f/category=monopody-dlya-videokamer-3660?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Фотоаппараты",
+            "url": "/fotoapparaty-12?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_14_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Зеркальные",
+                "url": "/fotoapparaty-12/zerkalnye-fotoapparaty-169?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Системные",
+                "url": "/fotoapparaty-12/fotoapparaty-sistemnye-196?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Компактные цифровые",
+                "url": "/fotoapparaty-12/kompaktnye-cifrovye-fotoapparaty-112?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фотоаппараты моментальной печати",
+                "url": "/fotoapparaty-12/fotoapparaty-mgnovennoi-pechati-325?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фотоаппараты премиум-класса",
+                "url": "/prophoto?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фотоаксессуары премиум",
+                "url": "/aksessuary-prophoto?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ультразумы",
+                "url": "/fotoapparaty-12/kompaktnye-cifrovye-fotoapparaty-112/f/opticheskoe-uvelichenie=bolee-25x?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Объективы, вспышки и оптика",
+            "url": "/aksessuary-dlya-foto-i-videotehniki-42?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/objective.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Объективы",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/obektivy-199?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фотовспышки",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/fotovspyshki-200?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Светофильтры",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/svetofiltry-262?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Бинокли",
+                "url": "/hobbi-28/binokli-i-teleskopy-2268/f/category=binokli-1169?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Телескопы",
+                "url": "/hobbi-28/binokli-i-teleskopy-2268/f/category=teleskopy-1208?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Лазерные дальномеры",
+                "url": "/instrumenty-7950/lazernye-pribory-8127?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Микроскопы",
+                "url": "/hobbi-28/mikroskopy-6367?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Фотопринтеры и цифровые фоторамки",
+            "url": "/cifrovye-fotoramki-i-fotoprintery-2468?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_187_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Компактные фотопринтеры",
+                "url": "/cifrovye-fotoramki-i-fotoprintery-2468/fotoprintery-kompaktnye-2478?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Бумага и картриджи для компактного  фотопринтера",
+                "url": "/cifrovye-fotoramki-i-fotoprintery-2468/nabor-dlya-kompaktnogo-printera-2479?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Цифровые фоторамки",
+                "url": "/cifrovye-fotoramki-i-fotoprintery-2468/cifrovye-fotoramki-2480?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Подписка фотобанка",
+                "url": "/pc-igry-i-soft-19/fotobanki-8707/f/category=podpiska-fotobanka-8708?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары для фото- и видеотехники",
+            "url": "/aksessuary-dlya-foto-i-videotehniki-42?reff=menu_main_category",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_143_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Штативы",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/shtativy-261?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Карты памяти и картридеры",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/karty-pamyati-i-kartridery-260?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сумки и чехлы",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/sumki-dlya-fotoapparatov-i-videokamer-264?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Программы для фото- и видеообработки",
+                "url": "/programmy-dlja-foto-i-videoobrabotki?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Чистящие средства для оптики",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/chistyashhie-sredstva-dlya-optiki-265?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Прочие аксессуары для фото и видео",
+                "url": "/aksessuary-dlya-foto-i-videotehniki-42/akkumulyatory-i-prochie-foto-i-video-aksessuary-266?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для фотоаппаратов моментальной печати",
+                "url": "/fotoapparaty-12/fotoapparaty-mgnovennoi-pechati-325/f/category=albomy-dlya-fujifilm-instax-mini-3794,kartridzhi-dlya-fujifilm-instax-3795?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Автоэлектроника",
+        "url": "/avtomobilnaya-elektronika-i-gps",
+        "imageUrl": "/media/TopMenu/3010/auto.png",
+        "promoLinks": [
+          {
+            "url": "/obzory/photo-video-i-auto?reff=menu_main",
+            "imageUrl": "/media/SmallBanners/m-obzory.png"
+          },
+          {
+            "url": "/promo/avto-ustroistva-neoline?from=menu",
+            "imageUrl": "/media/Promotions/Promo_Page/2019/November/avto-ustroistva-neoline/logo.png"
+          },
+          {
+            "url": "/promo/garmin-videoregistratory-i-navigatory",
+            "imageUrl": "/media/SmallBanners/garmin-2.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/avtomobilnaya-elektronika-i-gps"
+        },
+        "categories": [
+          {
+            "name": "<nobr>Видеорегистраторы</nobr> и навигаторы",
+            "url": "/navigatory-i-avtomobilnaya-elektronika-17?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_106_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Видеорегистраторы",
+                "url": "/navigatory-i-avtomobilnaya-elektronika-17/videoregistratory-209?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Радар-детекторы",
+                "url": "/navigatory-i-avtomobilnaya-elektronika-17/radar-detektory-210?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "GPS-навигаторы",
+                "url": "/navigatory-i-avtomobilnaya-elektronika-17/portativnye-gps-navigatory-176?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автомобильные навигаторы Garmin",
+                "url": "/navigatory-i-avtomobilnaya-elektronika-17/portativnye-gps-navigatory-176/f/brand=garmin?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Туристические навигаторы Garmin",
+                "url": "/navigatory-i-avtomobilnaya-elektronika-17/turisticheskie-navigatory-334?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Радиостанции",
+                "url": "/domashnie-i-ofisnye-telefony-radiostancii-4367/radiostancii-163?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мотогарнитуры",
+                "url": "/navigatory-i-avtomobilnaya-elektronika-17/motogarnitury-3867?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Карты памяти",
+                "url": "/aksessuary-dlya-telefonov-58/karty-pamyati-2590?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Автоакустика",
+            "url": "/avtoakustika-7?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_7_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Автомагнитолы",
+                "url": "/avtoakustika-7/avtomagnitoly-224?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автомагнитолы с навигацией",
+                "url": "/avtoakustika-7/avtomagnitoly-224/f/category=avtomagnitoly-s-navigaciei-1255?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автомагнитолы USB",
+                "url": "/avtoakustika-7/avtomagnitoly-224/f/category=usb-avtomagnitoly-913,usb-avtomagnitoly-co-vstroennymi-monitorami-960?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автомагнитолы DVD с экраном",
+                "url": "/avtoakustika-7/avtomagnitoly-224/f/category=avtomobilnye-magnitoly-dvd-s-monitorom-437?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Колонки автомобильные",
+                "url": "/avtoakustika-7/avtomobilnye-kolonki-79?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сабвуферы",
+                "url": "/avtoakustika-7/sabvufery-148?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Усилители",
+                "url": "/avtoakustika-7/usiliteli-78?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Товары для авто",
+            "url": "/tovary-dlya-avto-31?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_131_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Автохолодильники",
+                "url": "/tovary-dlya-avto-31/avtomobilnye-holodilniki-4987?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автомобильные пылесосы",
+                "url": "/pylesosy-i-aksessuary-2428/pylesosy-2438/f/category=akkumulyatornye-pylesosy-733?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автомобильные мойки",
+                "url": "/tovary-dlya-avto-31/moiki-vysokogo-davleniya-214?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Радиостанции",
+                "url": "/domashnie-i-ofisnye-telefony-radiostancii-32/radiostancii-163?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Мотогарнитуры",
+                "url": "/navigatory-i-avtomobilnaya-elektronika-17/motogarnitury-3867?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Наружные и внутрисалонные аксессуары",
+                "url": "/aksessuary-dlya-avtomobilei-37/drugie-avtomobilnye-aksessuary-259?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Автомобильная электрика",
+            "url": "/avtomobilnaya-elektrika-6247?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_209_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Пуско-зарядные устройства",
+                "url": "/avtomobilnaya-elektrika-6247/pusko-zaryadnye-ustroistva-5507/f/category=pusko-zaryadnye-ustroistva-5508?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Преобразователи напряжения",
+                "url": "/avtomobilnaya-elektrika-6247/avtopreobrazovateli-napryazheniya-246?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Установочные наборы, кабели, разъемы",
+                "url": "/avtomobilnaya-elektrika-6247/ustanovochnye-nabory-dlya-avto-kabeli-razemy-6249?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Разветвители прикуривателя",
+                "url": "/aksessuary-dlya-avtomobilei-37/avtorazvetviteli-prikurivatelya-241?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Автодиагностика и безопасность",
+            "url": "/avtodiagnostika-i-bezopasnost-6327?reff=menu_main",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_210_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Помощь на дороге",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/pomoshh-na-doroge-7427?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Камеры заднего вида",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/sistemy-parkovki-6007/f/category=kamery-zadnego-vida-6012?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Системы парковки",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/sistemy-parkovki-6007/f/category=parkovochnye-sistemy-6011?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Компрессоры",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/kompressory-avtomobilnye-2788/f/category=avtomobilnye-kompressory-460?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Алкотестеры",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/alkotestery-257?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Манометры",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/kompressory-avtomobilnye-2788/f/category=avtomobilnye-manometry-6009?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автосигнализации",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/avtosignalizacii-7087?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Автомобильные телевизоры и мониторы",
+                "url": "/avtodiagnostika-i-bezopasnost-6327/avtomobilnye-televizory-225?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Автоаксессуары",
+            "url": "/aksessuary-dlya-avtomobilei-37?reff=menu_main_category",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_138_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Держатели для смартфонов",
+                "url": "/aksessuary-dlya-avtomobilei-37/avtomobilnyi-derzhatel-239?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Bluetooth-гарнитуры",
+                "url": "/aksessuary-dlya-telefonov-58/garnitury-dlya-telefonov-343/f/category=bluetooth-garnitury-974?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Органайзеры",
+                "url": "/aksessuary-dlya-avtomobilei-37/organaizery-dlya-avtomobilya-7748?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Зарядные устройства",
+                "url": "/aksessuary-dlya-telefonov-58/zaryadnye-ustroistva-2587/f/category=avtomobilnye-zaryadnye-ustroistva-5527,avtomobilnye-zaryadnye-ustroistva-dlya-iphone-1257?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "FM-трансмиттеры",
+                "url": "/aksessuary-dlya-avtomobilei-37/avtomobilnye-fm-modulyatory-238?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Ароматизаторы и ионизаторы",
+                "url": "/aksessuary-dlya-avtomobilei-37/sredstva-dlya-uhoda-za-avtomobilem-258/f/category=aromatizatory-ionizatory-6447?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Чистящие средства",
+                "url": "/aksessuary-dlya-avtomobilei-37/sredstva-dlya-uhoda-za-avtomobilem-258/f/category=sredstva-uhoda-za-avtomobilem-1054?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Антенны",
+                "url": "/aksessuary-dlya-avtomobilei-37/avtomobilnye-antenny-256?reff=menu_main_category",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Аксессуары",
+        "url": "/aksessuary",
+        "imageUrl": "/media/TopMenu/3010/access.png",
+        "promoLinks": [
+          {
+            "url": "/obzory?reff=menu_main",
+            "imageUrl": "/media/SmallBanners/m-obzory.png"
+          },
+          {
+            "url": "/obzor-10-aksessuarov-dlya-smartfona?reff=menu_main",
+            "imageUrl": "/media/SmallBanners/smartphone_icon.png"
+          },
+          {
+            "url": "/promo/posuda-i-aksessuary-tefal",
+            "imageUrl": "/media/SmallBanners/75%D1%8550.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/aksessuary"
+        },
+        "categories": [
+          {
+            "name": "Все наушники",
+            "url": "/naushniki-54/naushniki-3967?reff=menu_main_acc",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cls_728_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Наушники Bluetooth",
+                "url": "/naushniki-54/naushniki-3967/f/category=naushniki-bluetooth-1706?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Наушники-вкладыши",
+                "url": "/naushniki-54/naushniki-3967/f/category=naushniki-vkladyshi-1150?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровые наушники",
+                "url": "/komputernye-aksessuary-24/komputernye-naushniki-219/f/category=naushniki-igrovye-1115?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Полноразмерные наушники",
+                "url": "/naushniki-54/naushniki-3967/f/category=naushniki-polnorazmernye-1152?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Накладные наушники",
+                "url": "/naushniki-54/naushniki-3967/f/category=naushniki-nakladnye-1151?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": " Спортивные наушники",
+                "url": "/naushniki-54/naushniki-3967/f/category=sportivnye-naushniki-2789?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Детские наушники",
+                "url": "/naushniki-54/naushniki-3967/f/category=naushniki-dlya-detei-7607?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Гарнитуры",
+                "url": "/aksessuary-dlya-telefonov-58/garnitury-dlya-telefonov-343?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Компьютерные аксессуары",
+            "url": "/komputernye-aksessuary-24?reff=menu_main_acc",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Grp_1765_L.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Клавиатуры и мыши",
+                "url": "/klaviatury-i-myshi?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Роутеры и сетевое оборудование",
+                "url": "/komputernye-aksessuary-24/routery-i-setevoe-oborudovanie-186?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Флеш-накопители",
+                "url": "/komputernye-aksessuary-24/flesh-nakopiteli-185?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Игровые аксессуары",
+                "url": "/promo/aksessuary-dlja-igr?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Компьютерные колонки",
+                "url": "/komputernye-aksessuary-24/komputernye-kolonki-182?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Компьютерная мебель",
+                "url": "/komputernye-aksessuary-24/komputernaya-mebel-1781?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Внешние жёсткие диски",
+                "url": "/komputernye-aksessuary-24/vneshnie-zhestkie-diski-i-ssd-184?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сумки для ноутбуков",
+                "url": "/komputernye-aksessuary-24/sumki-dlya-noutbukov-216?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары для ТВ, видео и аудио",
+            "url": "/aksessuary-dlya-televizorov-41?reff=menu_main_acc",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_142_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Кронштейны для TV",
+                "url": "/aksessuary-dlya-televizorov-41/kronshteiny-i-podvesy-dlya-televizorov-4247?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Тумбы и подставки для телевизоров",
+                "url": "/aksessuary-dlya-televizorov-41/tumby-i-podstavki-dlya-televizorov-237?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Комплекты модулей",
+                "url": "/aksessuary-dlya-televizorov-41/tumby-i-podstavki-dlya-televizorov-237/f/category=komplekty-modulei-6648,modulnye-komponenty-6769?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Антенны телевизионные",
+                "url": "/aksessuary-dlya-televizorov-41/televizionnye-antenny-252?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Пульты для телевизоров",
+                "url": "/aksessuary-dlya-televizorov-41/pulty-dlya-televizora-253?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для Hi-Fi",
+                "url": "/hi-fi-tehnika-5/aksessuary-hi-fi-190?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Подставки и подвесы для колонок",
+                "url": "/audiotehnika-i-dj-oborudovanie-9/aksessuary-dlya-audio-2475?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Экраны для видеопроекторов",
+                "url": "/videotehnika-20/proektory-i-ekrany-74/f/category=ekrany-dlya-videoproektorov-879?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары для смартфонов",
+            "url": "/aksessuary-dlya-telefonov-58?reff=menu_main_acc",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_159_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Наушники",
+                "url": "/naushniki-54/naushniki-3967?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Чехлы",
+                "url": "/aksessuary-dlya-telefonov-58/chehly-dlya-telefonov-342?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Внешние аккумуляторы",
+                "url": "/aksessuary-dlya-telefonov-58/vneshnie-akkumulyatory-dlya-telefonov-1944?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Зарядные устройства",
+                "url": "/aksessuary-dlya-telefonov-58/zaryadnye-ustroistva-2587?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Плёнки и стёкла",
+                "url": "/aksessuary-dlya-telefonov-58/plenki-i-stekla-dlya-telefonov-2589?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Карты памяти",
+                "url": "/aksessuary-dlya-telefonov-58/karty-pamyati-2590?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Медиа стримеры",
+                "url": "/aksessuary-dlya-telefonov-58/mediastrimery-1381?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для селфи",
+                "url": "/aksessuary-dlya-telefonov-58/aksessuary-dlya-selfi-2588?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары для дома",
+            "url": "/aksessuary-dlya-doma-50?reff=menu_main_acc",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Dir_151_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Посуда",
+                "url": "/posuda-53?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Освещение",
+                "url": "/osveshhenie-9375?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Гладильные доски",
+                "url": "/tovary-dlya-uhoda-za-odezhdoi-2/gladilnye-doski-292?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Батарейки и аккумуляторы",
+                "url": "/aksessuary-dlya-doma-50/batareiki-i-akkumulyatory-296?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сетевые фильтры и удлинители",
+                "url": "/aksessuary-dlya-doma-50/setevye-filtry-i-udliniteli-297?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Уход за вещами",
+                "url": "/aksessuary-dlya-doma-50/uhod-za-veshhami-141?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для пылесосов",
+                "url": "/aksessuary-dlya-doma-50/aksessuary-dlya-pylesosov-381?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Аксессуары для стиральных машин",
+                "url": "/aksessuary-dlya-doma-50/aksessuary-dlya-stiralnyh-mashin-382?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Аксессуары для фото- и видеотехники",
+            "url": "/aksessuary-dlya-foto-i-videotehniki-42?reff=menu_main_acc",
+            "imageUrl": "//img.mvideo.ru/catimg/50/Cat_Aks_S.jpg",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Объективы",
+                "url": "/aksessuary-dlya-foto--i-videotehniki-42/obektivy-199?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Фотовспышки",
+                "url": "/aksessuary-dlya-foto--i-videotehniki-42/fotovspyshki-200?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Карты памяти и кардридеры",
+                "url": "/aksessuary-dlya-foto--i-videotehniki-42/karty-pamyati-i-kartridery-260?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Штативы",
+                "url": "/aksessuary-dlya-foto--i-videotehniki-42/shtativy-261?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Светофильтры",
+                "url": "/aksessuary-dlya-foto--i-videotehniki-42/svetofiltry-262?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Сумки для фотоаппаратов и видеокамер",
+                "url": "/aksessuary-dlya-foto--i-videotehniki-42/sumki--dlya-fotoapparatov-i-videokamer-264?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Все аксессуары для фотоаппаратов и видеокамер",
+                "url": "/aksessuary-dlya-foto--i-videotehniki-42/akkumulyatory-i-prochie-foto-i-video-aksessuary-266?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Программы для фото- и видеообработки",
+                "url": "/programmy-dlja-foto-i-videoobrabotki?reff=menu_main_acc",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Premium",
+        "url": "/promo/premium-testpage?reff=menu_main",
+        "imageUrl": "/media/TopMenu/3010/Icons_premium.png",
+        "promoLinks": [
+          {
+            "url": "/miele?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/November/ulan-ude/1/Icons/Miele.png"
+          },
+          {
+            "url": "/promo/wmf-hub?from=menu",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/December/images/brandinmenu_WMF_S_208x108.png"
+          },
+          {
+            "url": "/kitchenaid?reff=menu_main",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/December/images/brandinmenu_KitchenAid_S_208x108.png"
+          },
+          {
+            "url": "/promo/tehnika-irobot",
+            "imageUrl": "/media/Promotions/Promo_Page/2020/December/images/brandinmenu_iRobot_S_208x108.png"
+          }
+        ],
+        "showAllLink": {
+          "name": "Посмотреть все категории",
+          "url": "/promo/premium-testpage?reff=menu_main"
+        },
+        "categories": [
+          {
+            "name": "Premium",
+            "url": "/promo/premium-testpage?reff=menu_main",
+            "imageUrl": "/media/TopMenu/3010/Icons_premium.png",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Все предложения",
+                "url": "/promo/premium-testpage?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кухня",
+                "url": "/promo/premium-kuhnya-mark164220449?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Дом",
+                "url": "/promo/m-video-premium-mark167291526?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Digital",
+                "url": "/promo/premium-digital-mark164220447?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Красота",
+                "url": "/promo/premium-krasota-mark164220450?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Тренды",
+            "url": "/promo/premium-testpage?reff=menu_main",
+            "imageUrl": "/media/TopMenu/premium/Trend.png",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Коллекции",
+                "url": "/kitchenaid?reff=menu_main",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Дизайнерские решения",
+                "url": "/promo/samsung-the-serif-2020?from=hub",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Умный дом",
+                "url": "/promo/bytovaya-technika-siemens-hub-tehnologii-home-connect?from=promotion",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Гибкий экран",
+                "url": "/promo/samsung-galaxy-fold?from=hb",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Премиум товары для дома",
+            "url": "/promo/premium-dom-mark167291526",
+            "imageUrl": "/media/TopMenu/premium/home.png",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Стиральные и сушильные машины",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=2427",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Пылесосы",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=2428",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Гладильные системы",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=2",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Премиум ТВ",
+            "url": "/promo/m-video-premium-mark154552217?categoryId=1",
+            "imageUrl": "/media/TopMenu/premium/TV.png",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Дизайнерские ТВ",
+                "url": "/promo/samsung-the-frame-2020?from=hub",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "8К ТВ",
+                "url": "/promo/samsung-qled-8k-2020?from=hub",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "QLED ТВ",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/qled-televizory=da/collection_top=premium",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "OLED ТВ",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/category=oled-televizory-1987/collection_top=premium",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "ТВ 65\"+",
+                "url": "/televizory-i-cifrovoe-tv-1/televizory-65/f/diagonal=65---70,75---77,82-/collection_top=premium",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Hi-Fi",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=5",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Премиум товары для кухни",
+            "url": "/premium/kitchen",
+            "imageUrl": "/media/TopMenu/premium/Kitchen.png",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Встраиваемая техника",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=4",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Холодильники",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=2687",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Кофемашины",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=29",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          },
+          {
+            "name": "Премиум товары для красоты",
+            "url": "/promo/premium-krasota-mark164220450",
+            "imageUrl": "/media/TopMenu/premium/beauty.png",
+            "promoLinks": null,
+            "showAllLink": null,
+            "categories": [
+              {
+                "name": "Товары для укладки волос",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=4887",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Товары для стрижки",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=5927",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              },
+              {
+                "name": "Товары для здоровья",
+                "url": "/promo/m-video-premium-mark154552217?categoryId=35",
+                "imageUrl": null,
+                "promoLinks": null,
+                "showAllLink": null,
+                "categories": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
