@@ -46,18 +46,14 @@ export default {
     return {
       products: [],
       errors: '',
-      baseUrl: ''
     }
   },
-  async mounted() {
+  async fetch() {
     try {
       const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
-      this.baseUrl = this.$axios.defaults.baseURL
       this.products = response.body.products
-      console.log(this.$config)
     } catch (e) {
       this.errors = JSON.stringify(e)
-      console.log(this.$config)
     }
   }
 }
