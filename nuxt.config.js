@@ -41,7 +41,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: process.env.VERCEL_URL || process.env.BASE_URL
+    baseURL: process.env.VERCEL_URL || '/'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
