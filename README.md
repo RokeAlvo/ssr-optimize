@@ -392,4 +392,204 @@ export default {
 Ставим всем компонентам на странице `LazyHydrate when-visible`
 
 Деплоим и тестируем:
+> К сожалению vercel не выполняет наш костыль для вырезания асинхронных чанков.
+> Перевозим тестовый стенд на hiroku
 
+Дополнительно забыли о lazyloading изображений. 
+Особо не мудрим и просто добавляем атрибут `loading="lazy"` к изображениям
+
+![ps](page-speed-results/5649fae8/mobile.png)
+
+![ps-metrics](page-speed-results/5649fae8/mobile-metrics.png)
+
+Ну вот уже зелененькие. Но помним, что у нас тестовый стенд, 
+упрощенный по сравнению с реальными приложениями.
+
+## Данные
+
+Пришло время посмотреть на результат рендера страницы, 
+т.е. на документ, который отдает нам сервер.
+
+```html
+<!doctype html>
+<html data-n-head-ssr lang="en" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22en%22%7D%7D">
+<head>
+  <title>ssr-optimize</title>
+  <meta data-n-head="ssr" charset="utf-8">
+  <meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1">
+  <meta data-n-head="ssr" data-hid="description" name="description" content="">
+  <meta data-n-head="ssr" name="format-detection" content="telephone=no">
+  <link data-n-head="ssr" rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="preload" href="/_nuxt/modern-5c24fa509ceadba62ea6-app.js" as="script">
+  <link rel="preload" href="/_nuxt/modern-0132d18578b8258d8277-commons/app.js" as="script">
+  <link rel="preload" href="/_nuxt/modern-14af1aa6b1c6157916b2-app.js" as="script">
+  <link rel="preload" href="/_nuxt/modern-c537fab69dd96158deb6-pages/index.js" as="script">
+  <style
+    data-vue-ssr-id="382a115c:0 0b721bb1:0 1af339ee:0">/*! tailwindcss v2.2.17 | MIT License | https://tailwindcss.com*/
+    /* строка 16        */
+  /*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
+
+  /*
+  Document
+========
+*/
+
+  /**
+Use a better box model (opinionated).
+*/
+
+  *,
+  ::before,
+  ::after {
+    box-sizing: border-box;
+  }
+
+  /**
+Use a more readable tab size (opinionated).
+*/
+
+  html {
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+  }
+   
+ /* ---------------- more css rows ---------------------------------- */
+  .main-image {
+    width: 375px;
+    height: 375px
+  }
+
+  /*purgecss end ignore*/</style>
+  <!--- строка 1082 ------------>
+</head>
+<body>
+<div data-server-rendered="true" id="__nuxt"><!---->
+  <div id="__layout">
+    <div class="default-layout relative">
+      
+      <!----- more html rows ----------------------------------------------->
+      
+    </div>
+  </div>
+</div>
+<!-- строка 2444-->
+<script>
+  window.__NUXT__ = (function (a, b, c, d, e, .............) {
+  return {
+    layout: "default",
+    data: [{}],
+    fetch: {
+      "CardList1:0": {
+        products: [{
+          productId: bb,
+          name: dp,
+          nameTranslit: dq,
+          brandName: as,
+          materialSource: n,
+          productType: M,
+          images: [dr, bc, ds, dt, du, dv, dw],
+          vendorCatalog: a,
+          partnerType: a,
+          category: {id: at, name: ar},
+          materialCisNumber: bb,
+          description: a,
+          modelName: dx,
+          properties: {
+            key: [{
+              name: bd,
+              priority: e,
+              properties: [{
+                id: be,
+                name: bf,
+                value: bg,
+                nameDescription: a,
+                valueDescription: a,
+                priority: e,
+                measure: a
+              }]
+            }, {
+              name: au,
+              priority: t,
+              properties: [{
+                  
+                  
+              // Много похожего....
+  
+//  строка 24660
+</script>
+<script src="/_nuxt/modern-5c24fa509ceadba62ea6-app.js" defer></script>
+<script src="/_nuxt/modern-c537fab69dd96158deb6-pages/index.js" defer></script>
+<script src="/_nuxt/modern-0132d18578b8258d8277-commons/app.js" defer></script>
+<script src="/_nuxt/modern-14af1aa6b1c6157916b2-app.js" defer></script>
+</body>
+</html>
+
+```
+
+Структура нашего документа примерно такая:
+
+- строки 16 - 1 084 стили
+  
+- строки 1084 - 2 444 разметка
+
+- строки 2444 - __24 660__ - данные для гидротации
+
+Что?! 22k строк данных для гидротации? Откуда?
+
+Внимательно присмотревшись к структуре этого безобразия, можно увидеть строки типа:
+
+```javascript
+{
+  layout: "default",
+    data: [{}],
+    fetch: {
+      "CardList1:0": {
+      products: [{
+        productId: bb,
+        name: dp,
+        nameTranslit: dq,
+        brandName: as,
+        materialSource: n,
+        // и еще куча полей с вложенными данными
+      }]
+    }
+  }
+}
+```
+
+Это результаты наших фетчей. 
+Так же можно найти и наши сторы с предзаполненными данными (помните, категории запрашивал?)
+
+Т.е. происходит следующее:
+
+- на сервере компонент запрашивает products
+
+- получает json на 10к строк
+
+- сохраняет это к себе в стору
+
+- данные внедряются на страницу, что бы потом быть гидратированы
+
+Зачем нам столько данных о товаре, если нам для отображения надо _name_, _category_, _image_ ?
+
+Зачем нам столько пришло оставим на совести бекендеров.
+
+Надо что-то с этим делать.
+
+- есть модное решение __graphql__
+
+- можно научить бекенд принимать фильтр с требуемыми полями `?fields="name,image,category.name"`
+
+- ну и наконец, если один из первых двух вариантов не возможен, 
+  то количество гоняемых по сети данных оставим на совести бекендеров, 
+  а вот количество данных для гидротации снизим просто 
+  добавив мапер
+  
+В месте получения данных добавляем вызов мапера:
+
+``````
+  
+
+
+  

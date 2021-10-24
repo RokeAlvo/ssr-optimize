@@ -20,6 +20,7 @@
 
 <script>
 import CatCard from "~/components/CatCard/CatCard10";
+import {mapApiProductsToProducts} from "@/components/utils/mapProducts";
 
 export default {
   name: "CardList10",
@@ -32,7 +33,7 @@ export default {
   async fetch() {
     try {
       const response = await this.$axios.$get(`/api-mocks/products1.json`)
-      this.products = response.body.products
+      this.products = mapApiProductsToProducts(response.body.products)
     } catch (e) {
       // eslint-disable-next-line no-console
       console.log('CardList.fetch', e)
