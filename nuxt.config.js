@@ -37,6 +37,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    ['~/modules/js-optimizer.js', {setOutputFilenames: true}]
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -52,7 +53,7 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     filenames: {
-      chunk: ({isModern, isDev}) => isDev ? `[name].[id].js` : `[name].[id].[contenthash:7]${isModern ? '.modern' : ''}.js`
+      // chunk: ({isModern, isDev}) => isDev ? `[name].[id].js` : `[name].[id].[contenthash:7]${isModern ? '.modern' : ''}.js`
     }
   }
 }

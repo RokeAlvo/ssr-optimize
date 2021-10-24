@@ -201,3 +201,169 @@ Nuxt поддерживает браузеры начиная с IE9. Соотв
 В реальном приложении циферки будут совсем другие.
 
 Основная наша проблема кроется в метрике **Total Blocking Time** 990 мс
+
+## Dynamic imports & lazyHydration
+
+Что бы понять, что происходит, давайте попробуем разобраться, что происходит.
+
+### Dynamic imports
+
+Для начала обратимся к такой полезной фиче вебпака, как разделение кода и волшебные комментарии.
+в компоненте страницы у нас есть такие строчки:
+
+```javascript
+import CardList1 from "~/components/CardList/CardList1";
+```
+
+Здесь мы импортируем компонент для дальнейшего использования. 
+Вынесем его в отдельный чанк:
+
+```javascript
+const CardList1 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList1.vue')
+```
+
+Настоящая магия! Теперь запустив наше приложение и открыв devtools, 
+увидим там, что мы грузим на клиент файл `CardList1.1.f29585b.modern.js`.
+Этот файл содержит такой код:
+```javascript
+(window.webpackJsonp = window.webpackJsonp || []).push([[1], {
+    206: function(t, e, r) {
+        "use strict";
+        r.r(e);
+        var c = r(6)
+          , o = {
+            name: "CatCard1",
+            props: {
+                product: {
+                    type: Object,
+                    required: !0
+                }
+            }
+        }
+          , l = r(21)
+          , n = {
+            name: "CardList1",
+            components: {
+                CatCard: Object(l.a)(o, (function() {
+                    var t = this
+                      , e = t.$createElement
+                      , r = t._self._c || e;
+                    return r("div", {
+                        staticClass: "w-full bg-gray-900 rounded-lg sahdow-lg p-12 flex flex-col justify-center items-center"
+                    }, [r("div", {
+                        staticClass: "mb-8"
+                    }, [r("img", {
+                        staticClass: "object-center object-cover rounded-full h-36 w-36",
+                        attrs: {
+                            src: t.product.image,
+                            alt: "photo"
+                        }
+                    })]), t._v(" "), r("div", {
+                        staticClass: "text-center"
+                    }, [r("p", {
+                        staticClass: "text-xl text-white font-bold mb-2"
+                    }, [t._v(t._s(t.product.name))]), t._v(" "), r("p", {
+                        staticClass: "text-base text-gray-400 font-normal"
+                    }, [t._v(t._s(t.product.category.name))])])])
+                }
+                ), [], !1, null, "98db24cc", null).exports
+            },
+            props: {
+                productsGroup: {
+                    type: Number,
+                    required: !0
+                },
+                title: {
+                    type: String,
+                    default: ""
+                },
+                description: {
+                    type: String,
+                    default: ""
+                }
+            },
+            data: ()=>({
+                products: []
+            }),
+            fetch() {
+                var t = this;
+                return Object(c.a)((function*() {
+                    try {
+                        var e = yield t.$axios.$get("/api-mocks/products".concat(t.productsGroup, ".json"));
+                        t.products = e.body.products
+                    } catch (t) {
+                        console.log("CardList.fetch", t)
+                    }
+                }
+                ))()
+            }
+        }
+          , d = Object(l.a)(n, (function() {
+            var t = this
+              , e = t.$createElement
+              , r = t._self._c || e;
+            return r("div", {
+                staticClass: "w-full bg-gray-800"
+            }, [r("section", {
+                staticClass: "max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12"
+            }, [t._m(0), t._v(" "), r("div", {
+                staticClass: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6"
+            }, t._l(t.products, (function(t) {
+                return r("CatCard", {
+                    key: t.productId,
+                    attrs: {
+                        product: t
+                    }
+                })
+            }
+            )), 1)])])
+        }
+        ), [function() {
+            var t = this
+              , e = t.$createElement
+              , r = t._self._c || e;
+            return r("div", {
+                staticClass: "text-center pb-12"
+            }, [r("h1", {
+                staticClass: "font-bold text-3xl md:text-4xl lg:text-5xl font-heading text-white"
+            }, [t._v("\n        CardList1\n      ")])])
+        }
+        ], !1, null, null, null);
+        e.default = d.exports
+    }
+}]);
+```
+
+Читать машинно-сформированный код удовольствие так себе,
+но при взгляде становится понятно, что чанк содержит код нашего компонента `CardList1`.
+
+А что если он нам не нужен? 
+
+Как? А для чего же мы его писали? 
+
+Во-первых, есть компоненты, которые достаточно отрендерить один раз в виде html 
+и больше ни когда не трогать. 
+В нашем приложении все компоненты такие, т.е. они не будут меняться.
+Нам нужно отобразить их в документе и больше не трогать.
+
+Во-вторых, для подавляющего количества компонентов верно следующее: 
+если в документе у нас есть разметка компонента, то код для него нам нужен не сразу 
+(либо не нужен вовсе, п.1),
+а при срабатывании различных триггеров — когда он попадает во вьюпорт,
+пользователь где-то что-то нажал, или произошло другое событие...
+
+Тут нам на помощь спешит недооцененная и изящная библиотека
+[vue-lazy-hydration](https://github.com/maoberlehner/vue-lazy-hydration])
+
+Она позволяет отложить гидротацию компонента. 
+
+Использование очень простое. Библиотека предоставляет компоненты, в которые
+оборачивается целевой компонент и, что мне особенно нравится функции хелперы
+`hydrateOnInteraction, hydrateNever, hydrateWhenIdle, hydrateWhenVisible`
+
+```javascript
+// const CardList1 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList1.vue')
+const CardList10 = () =>  hydrateNever(
+  import(/* webpackChunkName: "CardList10" */ '~/components/CardList/CardList10.vue')
+)
+```

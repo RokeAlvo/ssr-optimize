@@ -10,11 +10,15 @@
     <CardList7 :products-group="1"/>
     <CardList8 :products-group="2"/>
     <CardList9 :products-group="1"/>
-    <CardList10 :products-group="2"/>
+    <LazyHydrate never>
+      <CardList10 :products-group="2"/>
+    </LazyHydrate>
   </div>
 </template>
 
 <script>
+import LazyHydrate from 'vue-lazy-hydration';
+
 const CardList1 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList1.vue')
 const CardList2 = () => import(/* webpackChunkName: "CardList2" */ '~/components/CardList/CardList2.vue')
 const CardList3 = () => import(/* webpackChunkName: "CardList3" */ '~/components/CardList/CardList3.vue')
@@ -23,12 +27,17 @@ const CardList5 = () => import(/* webpackChunkName: "CardList5" */ '~/components
 const CardList6 = () => import(/* webpackChunkName: "CardList6" */ '~/components/CardList/CardList6.vue')
 const CardList7 = () => import(/* webpackChunkName: "CardList7" */ '~/components/CardList/CardList7.vue')
 const CardList8 = () => import(/* webpackChunkName: "CardList8" */ '~/components/CardList/CardList8.vue')
-const CardList9 = () => import(/* webpackChunkName: "CardList9" */ '~/components/CardList/CardList8.vue')
+const CardList9 = () => import(/* webpackChunkName: "CardList9" */ '~/components/CardList/CardList9.vue')
 const CardList10 = () => import(/* webpackChunkName: "CardList10" */ '~/components/CardList/CardList10.vue')
+// const CardList10 = () =>  hydrateWhenVisible(
+//   import(/* webpackChunkName: "CardList10" */ '~/components/CardList/CardList10.vue')
+// )
+
 
 export default {
   name: 'HomePage',
   components: {
+    LazyHydrate,
     CardList1, CardList2, CardList3, CardList4, CardList5, CardList6, CardList7, CardList8, CardList9, CardList10
   },
 }
