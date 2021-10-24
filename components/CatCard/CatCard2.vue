@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  name: "CatCard",
+  name: "CatCard2",
   props: {
     product: {
       type: Object,

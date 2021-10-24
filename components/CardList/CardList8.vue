@@ -1,15 +1,10 @@
 <template>
   <!-- component -->
   <div class="w-full bg-gray-800">
-    <p>baseUrl: {{baseUrl}}</p>
-    <p v-if="errors">{{errors}}</p>
     <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
       <div class="text-center pb-12">
-        <h2 class="text-base font-bold text-indigo-600">
-          {{ description }}
-        </h2>
         <h1 class="font-bold text-3xl md:text-4xl lg:text-5xl font-heading text-white">
-          {{ title }}
+          CardList8
         </h1>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -24,9 +19,9 @@
 </template>
 
 <script>
-import CatCard from "~/components/CatCard/CatCard";
+import CatCard from "~/components/CatCard/CatCard8";
 export default {
-  name: "CardList",
+  name: "CardList8",
   components: {CatCard},
   props: {
     productsGroup: {
@@ -45,7 +40,6 @@ export default {
   data() {
     return {
       products: [],
-      errors: '',
     }
   },
   async fetch() {
@@ -53,12 +47,9 @@ export default {
       const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
       this.products = response.body.products
     } catch (e) {
-      this.errors = JSON.stringify(e)
+      // eslint-disable-next-line no-console
+      console.log('CardList.fetch', e)
     }
   }
 }
 </script>
-
-<style scoped>
-
-</style>
