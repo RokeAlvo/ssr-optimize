@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="/Pdb/10025791b.jpg.webp" alt="main-image">
+    <img src="/Pdb/10025791b.jpg.webp" alt="main-image" class="w-full main-image">
     <CardList1 :products-group="1"/>
     <CardList2 :products-group="2"/>
     <CardList3 :products-group="1"/>
@@ -33,3 +33,9 @@ export default {
   },
 }
 </script>
+<style>
+  .main-image {
+    width: 375px;
+    height: 375px;
+  }
+</style>
