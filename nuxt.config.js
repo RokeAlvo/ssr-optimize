@@ -48,7 +48,7 @@ export default {
     vercel: process.env.VERCEL_URL,
     baseUrl: process.env.BASE_URL,
     axios: {
-      baseURL: process.env.VERCEL_URL || process.env.BASE_URL
+      // baseURL: process.env.VERCEL_URL || process.env.BASE_URL
     }
   },
 
