@@ -3,7 +3,13 @@
     {
       "src": "nuxt.config.js",
       "use": "@nuxtjs/vercel-builder",
-      "config": {}
+      "config": {
+        "serverFiles": [
+          "static/api-mocks/products1.json",
+          "static/api-mocks/products2.json",
+          "static/api-mocks/categories.json"
+        ]
+      }
     }
   ]
 }
