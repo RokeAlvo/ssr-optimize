@@ -1,6 +1,7 @@
 <template>
   <!-- component -->
   <div class="w-full bg-gray-800">
+    <p>baseUrl: {{baseUrl}}</p>
     <p v-if="errors">{{errors}}</p>
     <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
       <div class="text-center pb-12">
@@ -44,12 +45,14 @@ export default {
   data() {
     return {
       products: [],
-      errors: ''
+      errors: '',
+      baseUrl: ''
     }
   },
   async mounted() {
     try {
       const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
+      this.baseUrl = this.$axios.defaults.baseURL
       this.products = response.body.products
     } catch (e) {
       this.errors = JSON.stringify(e)

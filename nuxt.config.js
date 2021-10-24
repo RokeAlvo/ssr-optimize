@@ -45,7 +45,7 @@ export default {
 
   publicRuntimeConfig: {
     axios: {
-      browserBaseURL: process.env.VERCEL_URL || process.env.BROWSER_BASE_URL
+      browserBaseURL: process.env.VERCEL_URL || process.env.BASE_URL
     }
   },
 
