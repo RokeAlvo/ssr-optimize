@@ -15,16 +15,16 @@
 </template>
 
 <script>
-import CardList1 from "~/components/CardList/CardList1";
-import CardList2 from "~/components/CardList/CardList2";
-import CardList3 from "~/components/CardList/CardList3";
-import CardList4 from "~/components/CardList/CardList4";
-import CardList5 from "~/components/CardList/CardList5";
-import CardList6 from "~/components/CardList/CardList6";
-import CardList7 from "~/components/CardList/CardList7";
-import CardList8 from "~/components/CardList/CardList8";
-import CardList9 from "~/components/CardList/CardList9";
-import CardList10 from "~/components/CardList/CardList10";
+const CardList1 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList1.vue')
+const CardList2 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList2.vue')
+const CardList3 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList3.vue')
+const CardList4 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList4.vue')
+const CardList5 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList5.vue')
+const CardList6 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList6.vue')
+const CardList7 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList7.vue')
+const CardList8 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList8.vue')
+const CardList9 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList8.vue')
+const CardList10 = () => import(/* webpackChunkName: "CardList1" */ '~/components/CardList/CardList10.vue')
 
 export default {
   name: 'HomePage',
