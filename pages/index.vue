@@ -1,6 +1,11 @@
 <template>
   <div>
-    <img src="/Pdb/10025791b.jpg.webp" alt="main-image" class="w-full main-image">
+    <img
+      loading="eager"
+      src="/Pdb/10025791b.jpg.webp"
+      alt="main-image"
+      class="w-full main-image"
+    >
     <LazyHydrate when-visible>
       <LazyCardList1/>
     </LazyHydrate>

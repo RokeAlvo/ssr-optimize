@@ -602,7 +602,7 @@ export function mapApiProductsToProducts(productList) {
 
 Деплоимся, замеряем:
 
-![ps98](page-speed-results/919c56a5/mobile.png)
+![ps96](page-speed-results/919c56a5/mobile96.png)
 
 98. Ну почти... но все еще не 100.
 
