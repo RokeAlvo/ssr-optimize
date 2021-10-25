@@ -383,32 +383,29 @@ export default {
 
 ```
 
-Все равно грузится... беда! Происходит это изза особенностей nuxt и сборки с флагом modern.
-К счастью, [тут](https://github.com/vuejs/vue/issues/9847#issuecomment-626154095) есть решение.
-Уберем загрузку чанков из документа.
+Все равно грузится... беда! Происходит это изза особенностей nuxt и сборки с флагом modern. К
+счастью, [тут](https://github.com/vuejs/vue/issues/9847#issuecomment-626154095) есть решение. Уберем загрузку чанков из
+документа.
 
-Теперь загрузка компонентов CardList происходит в момент маунта компонента LazyCardList10, 
-который в свою очередь маунтится когда ему "разрешит" LazyHydration. 
-Ставим всем компонентам на странице `LazyHydrate when-visible`
+Теперь загрузка компонентов CardList происходит в момент маунта компонента LazyCardList10, который в свою очередь
+маунтится когда ему "разрешит" LazyHydration. Ставим всем компонентам на странице `LazyHydrate when-visible`
 
 Деплоим и тестируем:
 > К сожалению vercel не выполняет наш костыль для вырезания асинхронных чанков.
 > Перевозим тестовый стенд на hiroku
 
-Дополнительно забыли о lazyloading изображений. 
-Особо не мудрим и просто добавляем атрибут `loading="lazy"` к изображениям
+Дополнительно забыли о lazyloading изображений. Особо не мудрим и просто добавляем атрибут `loading="lazy"` к
+изображениям
 
 ![ps](page-speed-results/5649fae8/mobile.png)
 
 ![ps-metrics](page-speed-results/5649fae8/mobile-metrics.png)
 
-Ну вот уже зелененькие. Но помним, что у нас тестовый стенд, 
-упрощенный по сравнению с реальными приложениями.
+Ну вот уже зелененькие. Но помним, что у нас тестовый стенд, упрощенный по сравнению с реальными приложениями.
 
 ## Данные
 
-Пришло время посмотреть на результат рендера страницы, 
-т.е. на документ, который отдает нам сервер.
+Пришло время посмотреть на результат рендера страницы, т.е. на документ, который отдает нам сервер.
 
 ```html
 <!doctype html>
@@ -426,7 +423,7 @@ export default {
   <link rel="preload" href="/_nuxt/modern-c537fab69dd96158deb6-pages/index.js" as="script">
   <style
     data-vue-ssr-id="382a115c:0 0b721bb1:0 1af339ee:0">/*! tailwindcss v2.2.17 | MIT License | https://tailwindcss.com*/
-    /* строка 16        */
+  /* строка 16        */
   /*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
   /*
@@ -453,8 +450,8 @@ Use a more readable tab size (opinionated).
     -o-tab-size: 4;
     tab-size: 4;
   }
-   
- /* ---------------- more css rows ---------------------------------- */
+
+  /* ---------------- more css rows ---------------------------------- */
   .main-image {
     width: 375px;
     height: 375px
@@ -467,56 +464,58 @@ Use a more readable tab size (opinionated).
 <div data-server-rendered="true" id="__nuxt"><!---->
   <div id="__layout">
     <div class="default-layout relative">
-      
+
       <!----- more html rows ----------------------------------------------->
-      
+
     </div>
   </div>
 </div>
 <!-- строка 2444-->
 <script>
-  window.__NUXT__ = (function (a, b, c, d, e, .............) {
-  return {
-    layout: "default",
-    data: [{}],
-    fetch: {
-      "CardList1:0": {
-        products: [{
-          productId: bb,
-          name: dp,
-          nameTranslit: dq,
-          brandName: as,
-          materialSource: n,
-          productType: M,
-          images: [dr, bc, ds, dt, du, dv, dw],
-          vendorCatalog: a,
-          partnerType: a,
-          category: {id: at, name: ar},
-          materialCisNumber: bb,
-          description: a,
-          modelName: dx,
-          properties: {
-            key: [{
-              name: bd,
-              priority: e,
-              properties: [{
-                id: be,
-                name: bf,
-                value: bg,
-                nameDescription: a,
-                valueDescription: a,
+  window.__NUXT__ = (function (a, b, c, d, e, ...
+  ..........)
+  {
+    return {
+      layout: "default",
+      data: [{}],
+      fetch: {
+        "CardList1:0": {
+          products: [{
+            productId: bb,
+            name: dp,
+            nameTranslit: dq,
+            brandName: as,
+            materialSource: n,
+            productType: M,
+            images: [dr, bc, ds, dt, du, dv, dw],
+            vendorCatalog: a,
+            partnerType: a,
+            category: {id: at, name: ar},
+            materialCisNumber: bb,
+            description: a,
+            modelName: dx,
+            properties: {
+              key: [{
+                name: bd,
                 priority: e,
-                measure: a
-              }]
-            }, {
-              name: au,
-              priority: t,
-              properties: [{
-                  
-                  
-              // Много похожего....
-  
-//  строка 24660
+                properties: [{
+                  id: be,
+                  name: bf,
+                  value: bg,
+                  nameDescription: a,
+                  valueDescription: a,
+                  priority: e,
+                  measure: a
+                }]
+              }, {
+                name: au,
+                priority: t,
+                properties: [{
+
+
+  // Много похожего....
+
+  //  строка 24660
 </script>
 <script src="/_nuxt/modern-5c24fa509ceadba62ea6-app.js" defer></script>
 <script src="/_nuxt/modern-c537fab69dd96158deb6-pages/index.js" defer></script>
@@ -530,7 +529,7 @@ Use a more readable tab size (opinionated).
 Структура нашего документа примерно такая:
 
 - строки 16 - 1 084 стили
-  
+
 - строки 1084 - 2 444 разметка
 
 - строки 2444 - __24 660__ - данные для гидротации
@@ -542,9 +541,15 @@ Use a more readable tab size (opinionated).
 ```javascript
 {
   layout: "default",
-    data: [{}],
-    fetch: {
-      "CardList1:0": {
+    data
+:
+  [{}],
+    fetch
+:
+  {
+    "CardList1:0"
+  :
+    {
       products: [{
         productId: bb,
         name: dp,
@@ -558,8 +563,7 @@ Use a more readable tab size (opinionated).
 }
 ```
 
-Это результаты наших фетчей. 
-Так же можно найти и наши сторы с предзаполненными данными (помните, категории запрашивал?)
+Это результаты наших фетчей. Так же можно найти и наши сторы с предзаполненными данными (помните, категории запрашивал?)
 
 Т.е. происходит следующее:
 
@@ -581,14 +585,47 @@ Use a more readable tab size (opinionated).
 
 - можно научить бекенд принимать фильтр с требуемыми полями `?fields="name,image,category.name"`
 
-- ну и наконец, если один из первых двух вариантов не возможен, 
-  то количество гоняемых по сети данных оставим на совести бекендеров, 
-  а вот количество данных для гидротации снизим просто 
-  добавив мапер
-  
+- ну и наконец, если один из первых двух вариантов не возможен, то количество гоняемых по сети данных оставим на совести
+  бекендеров, а вот количество данных для гидротации снизим просто добавив мапер
+
 В месте получения данных добавляем вызов мапера:
 
-``````
+```javascript
+export function mapApiProductsToProducts(productList) {
+  return productList.map(product => ({
+    name: product.name,
+    category: product.category.name,
+    image: product.image
+  }))
+}
+```
+
+Деплоимся, замеряем:
+
+![ps98](page-speed-results/919c56a5/mobile.png)
+
+98. Ну почти... но все еще не 100.
+
+Раз уж мы взялись смотреть на данные для гидротации,
+давайте посмотрим на них еще раз.
+Все еще много - у нас остался запрос за категориями. 
+Напомню, это данные для построения выпадающего меню.
+
+С одной стороны, для первого отображения они не нужны, 
+и можно смело перенести этот запрос с сервера на клиент 
+и запрашивать их при клике по бургеру. 
+Но это ухудшит отзывчивость нашего интерфейса.
+
+Можно не обращать на это внимания.
+А можно разделить этот большой запрос на несколько этапов:
+
+- на сервере запрашиваем только первый уровень меню
+- при открытии меню запрашиваем остальное (или опять только следующий уровень)
+
+Давайте посмотрим что нам это даст, 
+причем даже не будем менять мок нашего бека, 
+а поступим так же как с продуктами, т.е. смапим.
+
   
 
 

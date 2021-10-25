@@ -14,6 +14,10 @@ export const actions = {
   },
   async loadCategories({commit}) {
     const response = await this.$axios.$get('/api-mocks/categories.json')
-    commit('setCategories', response.body.categories)
+    const result = response.body.categories.map(category => ({
+      name: category.name,
+      url: category.url
+    }))
+    commit('setCategories', result)
   }
 }
