@@ -604,7 +604,7 @@ export function mapApiProductsToProducts(productList) {
 
 ![ps96](page-speed-results/919c56a5/mobile96.png)
 
-98. Ну почти... но все еще не 100.
+96. Ну почти... но все еще не 100.
 
 Раз уж мы взялись смотреть на данные для гидротации,
 давайте посмотрим на них еще раз.
