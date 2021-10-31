@@ -1,16 +1,34 @@
 <template>
   <div>
     <img src="/Pdb/10025791b.jpg.webp" alt="main-image" class="w-full main-image">
-    <CardList1 :products-group="1"/>
-    <CardList2 :products-group="2"/>
-    <CardList3 :products-group="1"/>
-    <CardList4 :products-group="2"/>
-    <CardList5 :products-group="1"/>
-    <CardList6 :products-group="2"/>
-    <CardList7 :products-group="1"/>
-    <CardList8 :products-group="2"/>
-    <CardList9 :products-group="1"/>
     <LazyHydrate never>
+      <CardList1 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate never>
+      <CardList2 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
+      <CardList3 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
+      <CardList4 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
+      <CardList5 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
+      <CardList6 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
+      <CardList7 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
+      <CardList8 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
+      <CardList9 :products-group="2"/>
+    </LazyHydrate>
+    <LazyHydrate when-visible>
       <CardList10 :products-group="2"/>
     </LazyHydrate>
   </div>
@@ -29,10 +47,6 @@ const CardList7 = () => import(/* webpackChunkName: "CardList7" */ '~/components
 const CardList8 = () => import(/* webpackChunkName: "CardList8" */ '~/components/CardList/CardList8.vue')
 const CardList9 = () => import(/* webpackChunkName: "CardList9" */ '~/components/CardList/CardList9.vue')
 const CardList10 = () => import(/* webpackChunkName: "CardList10" */ '~/components/CardList/CardList10.vue')
-// const CardList10 = () =>  hydrateWhenVisible(
-//   import(/* webpackChunkName: "CardList10" */ '~/components/CardList/CardList10.vue')
-// )
-
 
 export default {
   name: 'HomePage',
@@ -43,8 +57,8 @@ export default {
 }
 </script>
 <style>
-  .main-image {
-    width: 375px;
-    height: 375px;
-  }
+.main-image {
+  width: 375px;
+  height: 375px;
+}
 </style>

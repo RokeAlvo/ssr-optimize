@@ -42,9 +42,6 @@ export default {
       products: [],
     }
   },
-  mounted() {
-    console.log('List10.mounted')
-  },
   async fetch() {
     try {
       const response = await this.$axios.$get(`/api-mocks/products${this.productsGroup}.json`)
@@ -53,6 +50,9 @@ export default {
       // eslint-disable-next-line no-console
       console.log('CardList.fetch', e)
     }
+  },
+  mounted() {
+    console.log('List10.mounted')
   }
 }
 </script>

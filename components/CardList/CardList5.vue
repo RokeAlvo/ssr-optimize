@@ -50,6 +50,9 @@ export default {
       // eslint-disable-next-line no-console
       console.log('CardList.fetch', e)
     }
+  },
+  mounted() {
+    console.log('List5.mounted')
   }
 }
 </script>
