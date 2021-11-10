@@ -617,7 +617,16 @@ export function mapApiProductsToProducts(productList) {
 
 [Деплоимся и тестируем](https://ssr-optimize9.herokuapp.com/)
 
-![ps98](page-speed-results/ccd535f0/mobile.png)
+![ps98](page-speed-results/state9.png)
+
+## Заключение
+
+Берегите пользователя. Заботьтесь о его телефончике. Не грузите лишнего.
+
+Ну и самое главное: современный фронтенд сложный, многоликий, тяжелый... 
+но не забывайте, что это все еще просто html, css и js.
+
+Как то так.
 
 
 
