@@ -4,12 +4,13 @@
     <NuxtLink to="/">Home page</NuxtLink>
   </div>
 </template>
-<script>
 
+<script>
 export default {
   name: 'TwoPage',
 }
 </script>
+
 <style>
 .main-image {
   width: 375px;
